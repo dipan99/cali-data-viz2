@@ -1,0 +1,4158 @@
+county,year,fire_count
+Alameda,1950,1
+Alameda,1951,1
+Alameda,1952,1
+Alameda,1954,1
+Alameda,1955,1
+Alameda,1958,2
+Alameda,1959,1
+Alameda,1961,2
+Alameda,1962,1
+Alameda,1964,2
+Alameda,1966,2
+Alameda,1968,3
+Alameda,1970,3
+Alameda,1973,1
+Alameda,1974,2
+Alameda,1979,1
+Alameda,1980,2
+Alameda,1982,1
+Alameda,1983,1
+Alameda,1988,1
+Alameda,1991,1
+Alameda,1992,1
+Alameda,1996,3
+Alameda,1997,2
+Alameda,1998,4
+Alameda,1999,3
+Alameda,2000,1
+Alameda,2001,1
+Alameda,2002,4
+Alameda,2003,4
+Alameda,2005,10
+Alameda,2006,1
+Alameda,2010,1
+Alameda,2011,3
+Alameda,2015,1
+Alameda,2018,2
+Alameda,2019,1
+Alameda,2020,1
+Alameda,2022,9
+Alpine,1924,1
+Alpine,1929,1
+Alpine,1939,1
+Alpine,1941,2
+Alpine,1946,1
+Alpine,1947,4
+Alpine,1948,2
+Alpine,1949,1
+Alpine,1951,1
+Alpine,1953,1
+Alpine,1954,1
+Alpine,1955,3
+Alpine,1959,2
+Alpine,1960,1
+Alpine,1964,2
+Alpine,1965,1
+Alpine,1968,1
+Alpine,1970,1
+Alpine,1971,1
+Alpine,1973,1
+Alpine,1974,2
+Alpine,1977,1
+Alpine,1981,1
+Alpine,1983,1
+Alpine,1984,3
+Alpine,1985,2
+Alpine,1986,1
+Alpine,1987,2
+Alpine,1988,1
+Alpine,1989,1
+Alpine,1992,1
+Alpine,1996,2
+Alpine,1999,3
+Alpine,2000,2
+Alpine,2002,1
+Alpine,2003,1
+Alpine,2004,1
+Alpine,2007,1
+Alpine,2008,1
+Alpine,2012,1
+Alpine,2014,1
+Alpine,2015,1
+Alpine,2016,1
+Alpine,2017,3
+Alpine,2018,5
+Alpine,2019,3
+Alpine,2020,1
+Alpine,2021,5
+Alpine,2023,1
+Amador,1917,3
+Amador,1918,3
+Amador,1919,2
+Amador,1922,1
+Amador,1923,1
+Amador,1924,3
+Amador,1925,2
+Amador,1927,3
+Amador,1929,1
+Amador,1934,1
+Amador,1937,2
+Amador,1938,1
+Amador,1950,2
+Amador,1951,2
+Amador,1952,1
+Amador,1954,2
+Amador,1956,1
+Amador,1957,1
+Amador,1958,1
+Amador,1959,2
+Amador,1961,5
+Amador,1962,1
+Amador,1964,1
+Amador,1965,1
+Amador,1968,1
+Amador,1969,1
+Amador,1976,1
+Amador,1978,1
+Amador,1980,3
+Amador,1981,1
+Amador,1985,1
+Amador,1988,1
+Amador,1989,2
+Amador,1990,1
+Amador,1991,1
+Amador,1992,1
+Amador,1993,2
+Amador,1994,3
+Amador,1996,1
+Amador,2001,3
+Amador,2002,5
+Amador,2003,2
+Amador,2004,3
+Amador,2005,1
+Amador,2006,2
+Amador,2008,1
+Amador,2011,1
+Amador,2013,1
+Amador,2014,1
+Amador,2015,1
+Amador,2016,8
+Amador,2017,3
+Amador,2018,1
+Amador,2019,1
+Amador,2020,2
+Amador,2021,4
+Amador,2022,2
+Amador,2023,4
+Butte,1911,2
+Butte,1914,1
+Butte,1916,2
+Butte,1917,9
+Butte,1918,7
+Butte,1919,3
+Butte,1920,7
+Butte,1921,5
+Butte,1924,3
+Butte,1926,5
+Butte,1927,5
+Butte,1928,2
+Butte,1929,3
+Butte,1930,3
+Butte,1931,9
+Butte,1932,3
+Butte,1936,2
+Butte,1939,1
+Butte,1940,1
+Butte,1941,1
+Butte,1942,1
+Butte,1943,3
+Butte,1944,2
+Butte,1945,2
+Butte,1946,2
+Butte,1948,1
+Butte,1949,4
+Butte,1950,4
+Butte,1951,3
+Butte,1953,2
+Butte,1954,6
+Butte,1955,1
+Butte,1957,1
+Butte,1958,2
+Butte,1959,3
+Butte,1960,2
+Butte,1961,7
+Butte,1963,1
+Butte,1964,4
+Butte,1965,1
+Butte,1966,7
+Butte,1967,1
+Butte,1970,1
+Butte,1971,1
+Butte,1972,2
+Butte,1973,5
+Butte,1974,2
+Butte,1975,2
+Butte,1976,2
+Butte,1977,1
+Butte,1978,1
+Butte,1979,3
+Butte,1980,3
+Butte,1983,3
+Butte,1984,1
+Butte,1985,1
+Butte,1986,3
+Butte,1987,2
+Butte,1988,2
+Butte,1989,2
+Butte,1990,5
+Butte,1991,4
+Butte,1992,6
+Butte,1993,1
+Butte,1994,2
+Butte,1995,1
+Butte,1996,2
+Butte,1999,11
+Butte,2000,3
+Butte,2001,4
+Butte,2002,3
+Butte,2003,5
+Butte,2004,1
+Butte,2006,3
+Butte,2007,3
+Butte,2008,17
+Butte,2009,2
+Butte,2010,2
+Butte,2011,4
+Butte,2012,3
+Butte,2013,7
+Butte,2014,2
+Butte,2015,7
+Butte,2016,6
+Butte,2017,9
+Butte,2018,6
+Butte,2019,2
+Butte,2020,16
+Butte,2021,3
+Butte,2022,18
+Butte,2023,7
+Calaveras,1917,1
+Calaveras,1918,1
+Calaveras,1923,1
+Calaveras,1950,11
+Calaveras,1951,5
+Calaveras,1952,11
+Calaveras,1953,6
+Calaveras,1954,3
+Calaveras,1955,4
+Calaveras,1956,2
+Calaveras,1957,4
+Calaveras,1958,4
+Calaveras,1959,3
+Calaveras,1960,1
+Calaveras,1961,4
+Calaveras,1962,2
+Calaveras,1963,1
+Calaveras,1964,1
+Calaveras,1965,1
+Calaveras,1966,7
+Calaveras,1967,1
+Calaveras,1968,5
+Calaveras,1969,3
+Calaveras,1970,1
+Calaveras,1971,2
+Calaveras,1972,3
+Calaveras,1974,1
+Calaveras,1976,1
+Calaveras,1979,5
+Calaveras,1980,1
+Calaveras,1982,1
+Calaveras,1983,1
+Calaveras,1985,3
+Calaveras,1986,2
+Calaveras,1987,2
+Calaveras,1988,7
+Calaveras,1989,2
+Calaveras,1991,1
+Calaveras,1992,5
+Calaveras,1993,1
+Calaveras,1994,3
+Calaveras,1995,1
+Calaveras,1996,5
+Calaveras,1999,5
+Calaveras,2000,4
+Calaveras,2001,5
+Calaveras,2002,11
+Calaveras,2003,8
+Calaveras,2004,11
+Calaveras,2005,4
+Calaveras,2006,5
+Calaveras,2007,5
+Calaveras,2008,4
+Calaveras,2009,2
+Calaveras,2011,5
+Calaveras,2012,4
+Calaveras,2013,2
+Calaveras,2015,1
+Calaveras,2016,11
+Calaveras,2017,6
+Calaveras,2018,7
+Calaveras,2019,2
+Calaveras,2020,2
+Calaveras,2021,2
+Calaveras,2022,1
+Calaveras,2023,2
+Colusa,1916,1
+Colusa,1928,2
+Colusa,1932,1
+Colusa,1939,2
+Colusa,1948,1
+Colusa,1949,1
+Colusa,1950,4
+Colusa,1951,2
+Colusa,1952,4
+Colusa,1953,2
+Colusa,1954,3
+Colusa,1960,1
+Colusa,1961,4
+Colusa,1962,3
+Colusa,1964,2
+Colusa,1966,4
+Colusa,1967,2
+Colusa,1968,2
+Colusa,1972,1
+Colusa,1974,1
+Colusa,1975,2
+Colusa,1976,2
+Colusa,1977,1
+Colusa,1978,1
+Colusa,1979,1
+Colusa,1987,1
+Colusa,1988,1
+Colusa,1989,1
+Colusa,1991,1
+Colusa,1992,1
+Colusa,1996,1
+Colusa,1998,1
+Colusa,1999,1
+Colusa,2001,1
+Colusa,2002,1
+Colusa,2003,3
+Colusa,2005,1
+Colusa,2006,1
+Colusa,2008,3
+Colusa,2009,3
+Colusa,2012,4
+Colusa,2014,1
+Colusa,2015,1
+Colusa,2017,3
+Colusa,2018,2
+Colusa,2019,2
+Colusa,2020,6
+Colusa,2021,1
+Contra Costa,1954,1
+Contra Costa,1958,2
+Contra Costa,1960,1
+Contra Costa,1961,3
+Contra Costa,1965,1
+Contra Costa,1966,2
+Contra Costa,1967,2
+Contra Costa,1970,6
+Contra Costa,1973,1
+Contra Costa,1974,1
+Contra Costa,1977,1
+Contra Costa,1979,2
+Contra Costa,1980,2
+Contra Costa,1981,1
+Contra Costa,1983,1
+Contra Costa,1985,1
+Contra Costa,1986,1
+Contra Costa,1991,1
+Contra Costa,1992,1
+Contra Costa,1995,2
+Contra Costa,1997,2
+Contra Costa,1998,4
+Contra Costa,1999,1
+Contra Costa,2000,1
+Contra Costa,2002,1
+Contra Costa,2003,2
+Contra Costa,2004,1
+Contra Costa,2005,6
+Contra Costa,2010,2
+Contra Costa,2011,1
+Contra Costa,2013,2
+Contra Costa,2018,1
+Contra Costa,2019,3
+Contra Costa,2020,1
+Contra Costa,2021,3
+Contra Costa,2022,9
+Del Norte,1909,2
+Del Norte,1910,1
+Del Norte,1911,1
+Del Norte,1913,3
+Del Norte,1914,2
+Del Norte,1915,1
+Del Norte,1916,5
+Del Norte,1917,6
+Del Norte,1918,4
+Del Norte,1919,3
+Del Norte,1920,1
+Del Norte,1922,1
+Del Norte,1924,5
+Del Norte,1926,1
+Del Norte,1927,3
+Del Norte,1928,2
+Del Norte,1929,6
+Del Norte,1930,2
+Del Norte,1932,8
+Del Norte,1933,5
+Del Norte,1934,4
+Del Norte,1935,8
+Del Norte,1936,7
+Del Norte,1937,5
+Del Norte,1938,7
+Del Norte,1939,7
+Del Norte,1940,3
+Del Norte,1941,1
+Del Norte,1944,1
+Del Norte,1946,1
+Del Norte,1948,2
+Del Norte,1950,2
+Del Norte,1951,8
+Del Norte,1952,2
+Del Norte,1953,4
+Del Norte,1954,1
+Del Norte,1955,1
+Del Norte,1956,5
+Del Norte,1957,4
+Del Norte,1959,3
+Del Norte,1960,2
+Del Norte,1961,1
+Del Norte,1962,1
+Del Norte,1963,1
+Del Norte,1965,1
+Del Norte,1966,1
+Del Norte,1967,1
+Del Norte,1969,2
+Del Norte,1970,1
+Del Norte,1972,11
+Del Norte,1974,2
+Del Norte,1975,2
+Del Norte,1977,1
+Del Norte,1978,1
+Del Norte,1980,3
+Del Norte,1981,1
+Del Norte,1984,1
+Del Norte,1985,2
+Del Norte,1987,2
+Del Norte,1988,1
+Del Norte,1990,1
+Del Norte,1991,2
+Del Norte,1993,2
+Del Norte,1994,17
+Del Norte,1995,1
+Del Norte,1996,1
+Del Norte,1998,7
+Del Norte,1999,1
+Del Norte,2001,1
+Del Norte,2002,3
+Del Norte,2006,1
+Del Norte,2007,3
+Del Norte,2008,4
+Del Norte,2009,2
+Del Norte,2011,1
+Del Norte,2013,1
+Del Norte,2014,1
+Del Norte,2015,8
+Del Norte,2017,3
+Del Norte,2018,2
+Del Norte,2020,1
+Del Norte,2022,1
+Del Norte,2023,8
+El Dorado,1915,1
+El Dorado,1916,26
+El Dorado,1917,24
+El Dorado,1918,12
+El Dorado,1919,16
+El Dorado,1920,13
+El Dorado,1921,6
+El Dorado,1922,5
+El Dorado,1923,5
+El Dorado,1924,13
+El Dorado,1925,4
+El Dorado,1926,10
+El Dorado,1927,2
+El Dorado,1928,8
+El Dorado,1929,12
+El Dorado,1930,2
+El Dorado,1931,5
+El Dorado,1932,4
+El Dorado,1933,4
+El Dorado,1934,10
+El Dorado,1935,1
+El Dorado,1936,5
+El Dorado,1937,1
+El Dorado,1942,1
+El Dorado,1943,1
+El Dorado,1944,3
+El Dorado,1947,1
+El Dorado,1950,3
+El Dorado,1951,3
+El Dorado,1952,3
+El Dorado,1954,6
+El Dorado,1955,2
+El Dorado,1956,1
+El Dorado,1957,3
+El Dorado,1958,1
+El Dorado,1959,8
+El Dorado,1960,4
+El Dorado,1961,7
+El Dorado,1962,6
+El Dorado,1964,6
+El Dorado,1966,2
+El Dorado,1968,1
+El Dorado,1969,3
+El Dorado,1970,2
+El Dorado,1971,1
+El Dorado,1972,4
+El Dorado,1973,3
+El Dorado,1974,1
+El Dorado,1975,1
+El Dorado,1976,1
+El Dorado,1977,2
+El Dorado,1979,3
+El Dorado,1981,3
+El Dorado,1984,1
+El Dorado,1985,3
+El Dorado,1986,1
+El Dorado,1987,3
+El Dorado,1988,2
+El Dorado,1989,2
+El Dorado,1990,1
+El Dorado,1991,1
+El Dorado,1992,5
+El Dorado,1993,1
+El Dorado,1994,4
+El Dorado,1995,5
+El Dorado,1996,4
+El Dorado,1997,3
+El Dorado,1999,4
+El Dorado,2001,8
+El Dorado,2002,22
+El Dorado,2003,4
+El Dorado,2004,3
+El Dorado,2005,5
+El Dorado,2006,7
+El Dorado,2007,3
+El Dorado,2008,8
+El Dorado,2009,1
+El Dorado,2011,9
+El Dorado,2012,1
+El Dorado,2013,4
+El Dorado,2014,3
+El Dorado,2015,2
+El Dorado,2016,4
+El Dorado,2017,10
+El Dorado,2018,5
+El Dorado,2019,7
+El Dorado,2020,4
+El Dorado,2021,7
+El Dorado,2022,3
+El Dorado,2023,1
+Fresno,1900,2
+Fresno,1910,1
+Fresno,1911,7
+Fresno,1912,1
+Fresno,1914,3
+Fresno,1916,3
+Fresno,1917,12
+Fresno,1918,1
+Fresno,1919,3
+Fresno,1920,2
+Fresno,1921,11
+Fresno,1922,6
+Fresno,1923,2
+Fresno,1924,8
+Fresno,1925,9
+Fresno,1926,9
+Fresno,1927,5
+Fresno,1928,11
+Fresno,1929,8
+Fresno,1930,2
+Fresno,1931,9
+Fresno,1932,3
+Fresno,1933,1
+Fresno,1934,4
+Fresno,1935,2
+Fresno,1936,4
+Fresno,1937,1
+Fresno,1939,2
+Fresno,1940,1
+Fresno,1941,1
+Fresno,1942,2
+Fresno,1943,2
+Fresno,1944,4
+Fresno,1945,1
+Fresno,1947,4
+Fresno,1948,2
+Fresno,1949,3
+Fresno,1950,10
+Fresno,1951,8
+Fresno,1952,3
+Fresno,1953,7
+Fresno,1954,2
+Fresno,1955,7
+Fresno,1956,1
+Fresno,1957,3
+Fresno,1958,5
+Fresno,1959,2
+Fresno,1960,2
+Fresno,1961,9
+Fresno,1962,12
+Fresno,1963,1
+Fresno,1964,3
+Fresno,1966,4
+Fresno,1967,6
+Fresno,1968,8
+Fresno,1969,4
+Fresno,1970,6
+Fresno,1971,1
+Fresno,1972,6
+Fresno,1973,10
+Fresno,1974,8
+Fresno,1975,3
+Fresno,1976,1
+Fresno,1977,4
+Fresno,1978,2
+Fresno,1979,11
+Fresno,1980,12
+Fresno,1981,9
+Fresno,1982,6
+Fresno,1983,6
+Fresno,1984,9
+Fresno,1985,12
+Fresno,1986,6
+Fresno,1987,12
+Fresno,1988,16
+Fresno,1989,5
+Fresno,1990,5
+Fresno,1991,3
+Fresno,1992,5
+Fresno,1993,10
+Fresno,1994,9
+Fresno,1995,7
+Fresno,1996,8
+Fresno,1997,4
+Fresno,1998,2
+Fresno,1999,17
+Fresno,2000,11
+Fresno,2001,11
+Fresno,2002,17
+Fresno,2003,13
+Fresno,2004,4
+Fresno,2005,6
+Fresno,2006,9
+Fresno,2007,9
+Fresno,2008,8
+Fresno,2009,7
+Fresno,2010,2
+Fresno,2011,12
+Fresno,2012,11
+Fresno,2013,8
+Fresno,2014,7
+Fresno,2015,5
+Fresno,2016,18
+Fresno,2017,24
+Fresno,2018,16
+Fresno,2019,16
+Fresno,2020,16
+Fresno,2021,14
+Fresno,2022,9
+Fresno,2023,16
+Glenn,1920,1
+Glenn,1921,1
+Glenn,1922,1
+Glenn,1924,1
+Glenn,1927,1
+Glenn,1932,1
+Glenn,1933,2
+Glenn,1951,1
+Glenn,1952,1
+Glenn,1953,2
+Glenn,1959,3
+Glenn,1960,1
+Glenn,1961,3
+Glenn,1966,1
+Glenn,1968,2
+Glenn,1970,1
+Glenn,1971,1
+Glenn,1973,1
+Glenn,1974,1
+Glenn,1976,1
+Glenn,1978,1
+Glenn,1979,1
+Glenn,1981,1
+Glenn,1986,1
+Glenn,1987,1
+Glenn,1988,3
+Glenn,1990,1
+Glenn,1991,1
+Glenn,2000,1
+Glenn,2001,4
+Glenn,2003,19
+Glenn,2005,1
+Glenn,2006,1
+Glenn,2012,1
+Glenn,2013,2
+Glenn,2014,2
+Glenn,2016,1
+Glenn,2018,4
+Glenn,2019,1
+Glenn,2020,5
+Glenn,2021,1
+Glenn,2022,2
+Glenn,2023,1
+Humboldt,1908,1
+Humboldt,1910,8
+Humboldt,1911,12
+Humboldt,1913,3
+Humboldt,1914,2
+Humboldt,1915,18
+Humboldt,1916,11
+Humboldt,1917,20
+Humboldt,1918,4
+Humboldt,1919,4
+Humboldt,1922,6
+Humboldt,1923,5
+Humboldt,1924,15
+Humboldt,1925,5
+Humboldt,1926,7
+Humboldt,1927,6
+Humboldt,1928,11
+Humboldt,1929,24
+Humboldt,1930,1
+Humboldt,1931,12
+Humboldt,1932,10
+Humboldt,1934,3
+Humboldt,1935,1
+Humboldt,1936,17
+Humboldt,1937,2
+Humboldt,1938,7
+Humboldt,1939,4
+Humboldt,1940,4
+Humboldt,1941,1
+Humboldt,1943,1
+Humboldt,1945,4
+Humboldt,1946,1
+Humboldt,1947,1
+Humboldt,1948,2
+Humboldt,1949,7
+Humboldt,1950,13
+Humboldt,1951,10
+Humboldt,1952,11
+Humboldt,1953,14
+Humboldt,1954,3
+Humboldt,1955,13
+Humboldt,1956,4
+Humboldt,1957,3
+Humboldt,1958,9
+Humboldt,1959,18
+Humboldt,1960,6
+Humboldt,1961,9
+Humboldt,1963,4
+Humboldt,1964,4
+Humboldt,1965,5
+Humboldt,1966,1
+Humboldt,1967,1
+Humboldt,1968,3
+Humboldt,1969,8
+Humboldt,1970,5
+Humboldt,1972,3
+Humboldt,1973,3
+Humboldt,1974,3
+Humboldt,1975,2
+Humboldt,1976,1
+Humboldt,1977,16
+Humboldt,1978,3
+Humboldt,1979,3
+Humboldt,1980,13
+Humboldt,1981,2
+Humboldt,1982,1
+Humboldt,1983,1
+Humboldt,1985,4
+Humboldt,1986,1
+Humboldt,1987,6
+Humboldt,1988,6
+Humboldt,1989,2
+Humboldt,1990,6
+Humboldt,1991,5
+Humboldt,1992,15
+Humboldt,1993,4
+Humboldt,1994,7
+Humboldt,1995,3
+Humboldt,1996,3
+Humboldt,1997,1
+Humboldt,1998,26
+Humboldt,1999,1
+Humboldt,2000,1
+Humboldt,2001,2
+Humboldt,2002,2
+Humboldt,2003,10
+Humboldt,2004,4
+Humboldt,2006,5
+Humboldt,2007,6
+Humboldt,2008,13
+Humboldt,2009,16
+Humboldt,2010,1
+Humboldt,2011,3
+Humboldt,2012,7
+Humboldt,2013,7
+Humboldt,2014,6
+Humboldt,2015,22
+Humboldt,2016,5
+Humboldt,2017,6
+Humboldt,2018,6
+Humboldt,2020,6
+Humboldt,2021,3
+Humboldt,2022,7
+Humboldt,2023,11
+Imperial,1978,2
+Imperial,1987,1
+Imperial,1989,1
+Imperial,2007,1
+Imperial,2008,2
+Imperial,2009,1
+Imperial,2011,2
+Imperial,2012,2
+Imperial,2013,1
+Imperial,2015,1
+Imperial,2017,1
+Imperial,2019,1
+Imperial,2020,3
+Imperial,2021,4
+Imperial,2022,1
+Imperial,2023,3
+Inyo,1960,2
+Inyo,1962,1
+Inyo,1966,1
+Inyo,1971,1
+Inyo,1972,3
+Inyo,1975,1
+Inyo,1977,2
+Inyo,1979,2
+Inyo,1980,1
+Inyo,1981,2
+Inyo,1982,2
+Inyo,1983,2
+Inyo,1984,1
+Inyo,1985,1
+Inyo,1986,1
+Inyo,1987,2
+Inyo,1988,3
+Inyo,1991,2
+Inyo,1992,1
+Inyo,1995,2
+Inyo,1996,2
+Inyo,1997,3
+Inyo,1998,2
+Inyo,1999,1
+Inyo,2000,2
+Inyo,2002,3
+Inyo,2003,2
+Inyo,2005,10
+Inyo,2006,6
+Inyo,2007,5
+Inyo,2008,5
+Inyo,2009,5
+Inyo,2010,3
+Inyo,2011,5
+Inyo,2012,3
+Inyo,2013,3
+Inyo,2014,2
+Inyo,2015,1
+Inyo,2016,5
+Inyo,2017,3
+Inyo,2018,3
+Inyo,2019,1
+Inyo,2020,1
+Inyo,2021,9
+Inyo,2022,3
+Inyo,2023,3
+Kern,1910,4
+Kern,1912,1
+Kern,1914,2
+Kern,1915,8
+Kern,1916,7
+Kern,1917,4
+Kern,1918,1
+Kern,1919,3
+Kern,1920,3
+Kern,1921,6
+Kern,1922,1
+Kern,1923,2
+Kern,1924,10
+Kern,1925,4
+Kern,1926,8
+Kern,1927,4
+Kern,1928,4
+Kern,1929,4
+Kern,1930,3
+Kern,1931,3
+Kern,1933,2
+Kern,1934,3
+Kern,1935,2
+Kern,1936,2
+Kern,1937,2
+Kern,1938,1
+Kern,1939,6
+Kern,1940,3
+Kern,1941,6
+Kern,1942,6
+Kern,1946,3
+Kern,1948,2
+Kern,1950,2
+Kern,1951,5
+Kern,1952,1
+Kern,1953,2
+Kern,1954,4
+Kern,1957,2
+Kern,1958,2
+Kern,1960,1
+Kern,1961,4
+Kern,1963,1
+Kern,1964,7
+Kern,1965,5
+Kern,1966,10
+Kern,1967,4
+Kern,1968,5
+Kern,1969,10
+Kern,1970,13
+Kern,1971,6
+Kern,1972,2
+Kern,1973,4
+Kern,1974,23
+Kern,1975,7
+Kern,1976,1
+Kern,1977,5
+Kern,1978,2
+Kern,1979,3
+Kern,1980,4
+Kern,1981,4
+Kern,1982,2
+Kern,1983,4
+Kern,1984,14
+Kern,1985,5
+Kern,1986,7
+Kern,1987,15
+Kern,1988,9
+Kern,1989,6
+Kern,1990,8
+Kern,1992,6
+Kern,1993,28
+Kern,1994,20
+Kern,1995,27
+Kern,1996,28
+Kern,1997,24
+Kern,1998,23
+Kern,1999,15
+Kern,2000,7
+Kern,2001,3
+Kern,2002,3
+Kern,2003,22
+Kern,2004,6
+Kern,2005,25
+Kern,2006,21
+Kern,2007,11
+Kern,2008,12
+Kern,2009,24
+Kern,2010,22
+Kern,2011,43
+Kern,2012,56
+Kern,2013,28
+Kern,2014,7
+Kern,2015,6
+Kern,2016,28
+Kern,2017,42
+Kern,2018,19
+Kern,2019,14
+Kern,2020,34
+Kern,2021,38
+Kern,2022,41
+Kern,2023,78
+Kings,1951,1
+Kings,1968,1
+Kings,1969,1
+Kings,1972,1
+Kings,1973,1
+Kings,1979,2
+Kings,1981,1
+Kings,1984,1
+Kings,1989,1
+Kings,1994,1
+Kings,1995,2
+Kings,1996,2
+Kings,1997,1
+Kings,1999,1
+Kings,2001,1
+Kings,2005,1
+Kings,2007,1
+Kings,2008,1
+Kings,2011,1
+Kings,2012,2
+Kings,2017,3
+Kings,2018,2
+Kings,2019,4
+Kings,2020,2
+Kings,2021,1
+Lake,1920,1
+Lake,1922,1
+Lake,1923,3
+Lake,1928,3
+Lake,1929,3
+Lake,1931,2
+Lake,1932,3
+Lake,1933,1
+Lake,1934,1
+Lake,1937,1
+Lake,1939,6
+Lake,1944,4
+Lake,1946,1
+Lake,1947,5
+Lake,1948,3
+Lake,1949,3
+Lake,1950,7
+Lake,1951,14
+Lake,1952,13
+Lake,1953,1
+Lake,1954,5
+Lake,1955,4
+Lake,1956,1
+Lake,1957,3
+Lake,1959,3
+Lake,1960,4
+Lake,1961,4
+Lake,1962,4
+Lake,1963,1
+Lake,1964,2
+Lake,1966,3
+Lake,1967,3
+Lake,1968,1
+Lake,1970,1
+Lake,1971,2
+Lake,1972,2
+Lake,1973,2
+Lake,1975,3
+Lake,1976,1
+Lake,1977,2
+Lake,1979,1
+Lake,1980,3
+Lake,1981,6
+Lake,1983,1
+Lake,1984,1
+Lake,1985,2
+Lake,1986,1
+Lake,1987,4
+Lake,1988,3
+Lake,1989,1
+Lake,1990,3
+Lake,1991,5
+Lake,1992,2
+Lake,1996,2
+Lake,1998,3
+Lake,1999,1
+Lake,2000,3
+Lake,2001,2
+Lake,2003,18
+Lake,2004,2
+Lake,2005,4
+Lake,2006,5
+Lake,2007,5
+Lake,2008,5
+Lake,2009,2
+Lake,2010,2
+Lake,2012,4
+Lake,2013,14
+Lake,2014,3
+Lake,2015,9
+Lake,2016,9
+Lake,2017,9
+Lake,2018,9
+Lake,2019,5
+Lake,2020,16
+Lake,2021,9
+Lassen,1910,2
+Lassen,1911,5
+Lassen,1914,1
+Lassen,1917,11
+Lassen,1918,8
+Lassen,1919,3
+Lassen,1920,4
+Lassen,1921,1
+Lassen,1922,1
+Lassen,1924,5
+Lassen,1925,2
+Lassen,1926,4
+Lassen,1927,1
+Lassen,1928,1
+Lassen,1929,2
+Lassen,1930,3
+Lassen,1931,3
+Lassen,1933,1
+Lassen,1934,2
+Lassen,1935,1
+Lassen,1936,4
+Lassen,1938,1
+Lassen,1939,5
+Lassen,1940,1
+Lassen,1941,1
+Lassen,1942,7
+Lassen,1943,3
+Lassen,1944,2
+Lassen,1945,3
+Lassen,1946,2
+Lassen,1947,1
+Lassen,1948,1
+Lassen,1949,2
+Lassen,1950,6
+Lassen,1951,5
+Lassen,1953,2
+Lassen,1954,3
+Lassen,1955,4
+Lassen,1957,3
+Lassen,1958,4
+Lassen,1959,2
+Lassen,1961,3
+Lassen,1962,1
+Lassen,1963,1
+Lassen,1964,4
+Lassen,1965,1
+Lassen,1966,2
+Lassen,1969,3
+Lassen,1971,1
+Lassen,1973,5
+Lassen,1974,1
+Lassen,1976,1
+Lassen,1977,5
+Lassen,1978,1
+Lassen,1979,2
+Lassen,1981,3
+Lassen,1983,2
+Lassen,1984,9
+Lassen,1985,10
+Lassen,1986,6
+Lassen,1987,7
+Lassen,1988,4
+Lassen,1989,2
+Lassen,1990,8
+Lassen,1991,1
+Lassen,1992,4
+Lassen,1993,2
+Lassen,1994,5
+Lassen,1995,5
+Lassen,1996,8
+Lassen,1997,9
+Lassen,1998,1
+Lassen,1999,6
+Lassen,2000,3
+Lassen,2001,5
+Lassen,2002,6
+Lassen,2003,19
+Lassen,2004,11
+Lassen,2005,1
+Lassen,2006,10
+Lassen,2007,9
+Lassen,2008,3
+Lassen,2009,7
+Lassen,2010,6
+Lassen,2011,5
+Lassen,2012,9
+Lassen,2013,2
+Lassen,2014,1
+Lassen,2015,5
+Lassen,2016,2
+Lassen,2017,20
+Lassen,2018,13
+Lassen,2019,13
+Lassen,2020,22
+Lassen,2021,8
+Lassen,2022,6
+Lassen,2023,1
+Los Angeles,1878,1
+Los Angeles,1895,1
+Los Angeles,1896,1
+Los Angeles,1898,2
+Los Angeles,1900,2
+Los Angeles,1903,1
+Los Angeles,1905,1
+Los Angeles,1906,1
+Los Angeles,1907,4
+Los Angeles,1908,1
+Los Angeles,1909,4
+Los Angeles,1910,19
+Los Angeles,1911,35
+Los Angeles,1912,12
+Los Angeles,1913,15
+Los Angeles,1914,11
+Los Angeles,1915,20
+Los Angeles,1916,25
+Los Angeles,1917,18
+Los Angeles,1918,7
+Los Angeles,1919,24
+Los Angeles,1920,11
+Los Angeles,1921,37
+Los Angeles,1922,22
+Los Angeles,1923,24
+Los Angeles,1924,21
+Los Angeles,1925,6
+Los Angeles,1926,6
+Los Angeles,1927,26
+Los Angeles,1928,27
+Los Angeles,1929,18
+Los Angeles,1930,6
+Los Angeles,1931,8
+Los Angeles,1932,11
+Los Angeles,1933,7
+Los Angeles,1934,1
+Los Angeles,1935,8
+Los Angeles,1936,15
+Los Angeles,1937,15
+Los Angeles,1938,8
+Los Angeles,1939,6
+Los Angeles,1940,8
+Los Angeles,1941,9
+Los Angeles,1942,19
+Los Angeles,1943,11
+Los Angeles,1944,8
+Los Angeles,1945,6
+Los Angeles,1946,18
+Los Angeles,1947,23
+Los Angeles,1948,7
+Los Angeles,1949,22
+Los Angeles,1950,7
+Los Angeles,1951,9
+Los Angeles,1952,13
+Los Angeles,1953,48
+Los Angeles,1954,20
+Los Angeles,1955,24
+Los Angeles,1956,36
+Los Angeles,1957,28
+Los Angeles,1958,21
+Los Angeles,1959,25
+Los Angeles,1960,24
+Los Angeles,1961,13
+Los Angeles,1962,18
+Los Angeles,1963,18
+Los Angeles,1964,14
+Los Angeles,1965,5
+Los Angeles,1966,19
+Los Angeles,1967,21
+Los Angeles,1968,44
+Los Angeles,1969,30
+Los Angeles,1970,71
+Los Angeles,1971,31
+Los Angeles,1972,29
+Los Angeles,1973,23
+Los Angeles,1974,38
+Los Angeles,1975,70
+Los Angeles,1976,29
+Los Angeles,1977,40
+Los Angeles,1978,40
+Los Angeles,1979,72
+Los Angeles,1980,57
+Los Angeles,1981,48
+Los Angeles,1982,19
+Los Angeles,1983,30
+Los Angeles,1984,29
+Los Angeles,1985,20
+Los Angeles,1986,36
+Los Angeles,1987,12
+Los Angeles,1988,21
+Los Angeles,1989,44
+Los Angeles,1990,16
+Los Angeles,1991,5
+Los Angeles,1992,19
+Los Angeles,1993,31
+Los Angeles,1994,22
+Los Angeles,1995,28
+Los Angeles,1996,26
+Los Angeles,1997,27
+Los Angeles,1998,11
+Los Angeles,1999,20
+Los Angeles,2000,11
+Los Angeles,2001,5
+Los Angeles,2002,24
+Los Angeles,2003,24
+Los Angeles,2004,12
+Los Angeles,2005,15
+Los Angeles,2006,20
+Los Angeles,2007,42
+Los Angeles,2008,22
+Los Angeles,2009,25
+Los Angeles,2010,23
+Los Angeles,2011,32
+Los Angeles,2012,32
+Los Angeles,2013,28
+Los Angeles,2014,20
+Los Angeles,2015,45
+Los Angeles,2016,34
+Los Angeles,2017,47
+Los Angeles,2018,27
+Los Angeles,2019,15
+Los Angeles,2020,40
+Los Angeles,2021,33
+Los Angeles,2022,20
+Los Angeles,2023,4
+Madera,1911,10
+Madera,1916,4
+Madera,1917,7
+Madera,1918,2
+Madera,1919,5
+Madera,1920,6
+Madera,1921,4
+Madera,1922,4
+Madera,1923,2
+Madera,1924,6
+Madera,1925,2
+Madera,1926,6
+Madera,1928,6
+Madera,1930,1
+Madera,1931,3
+Madera,1933,3
+Madera,1934,3
+Madera,1936,1
+Madera,1937,1
+Madera,1939,2
+Madera,1940,2
+Madera,1942,1
+Madera,1944,1
+Madera,1945,1
+Madera,1946,1
+Madera,1947,1
+Madera,1950,2
+Madera,1951,10
+Madera,1952,2
+Madera,1953,5
+Madera,1954,3
+Madera,1957,2
+Madera,1958,4
+Madera,1959,4
+Madera,1961,3
+Madera,1962,4
+Madera,1964,4
+Madera,1966,1
+Madera,1967,2
+Madera,1968,3
+Madera,1969,1
+Madera,1970,3
+Madera,1971,3
+Madera,1973,5
+Madera,1974,1
+Madera,1975,2
+Madera,1976,1
+Madera,1977,4
+Madera,1978,2
+Madera,1979,1
+Madera,1980,4
+Madera,1981,2
+Madera,1982,2
+Madera,1983,1
+Madera,1984,1
+Madera,1985,3
+Madera,1986,3
+Madera,1987,2
+Madera,1988,3
+Madera,1989,1
+Madera,1990,5
+Madera,1992,2
+Madera,1993,2
+Madera,1994,1
+Madera,1995,1
+Madera,1996,4
+Madera,1997,3
+Madera,1998,2
+Madera,1999,2
+Madera,2000,2
+Madera,2001,3
+Madera,2002,2
+Madera,2003,4
+Madera,2004,13
+Madera,2005,13
+Madera,2006,2
+Madera,2007,3
+Madera,2008,8
+Madera,2010,1
+Madera,2011,2
+Madera,2012,3
+Madera,2013,4
+Madera,2014,11
+Madera,2015,4
+Madera,2016,5
+Madera,2017,8
+Madera,2018,4
+Madera,2019,2
+Madera,2020,4
+Madera,2021,2
+Madera,2022,3
+Madera,2023,2
+Marin,1923,1
+Marin,1929,1
+Marin,1937,4
+Marin,1938,5
+Marin,1941,13
+Marin,1965,1
+Marin,1966,2
+Marin,1968,4
+Marin,1969,3
+Marin,1970,2
+Marin,1973,2
+Marin,1974,1
+Marin,1975,4
+Marin,1976,3
+Marin,1978,1
+Marin,1980,1
+Marin,1981,3
+Marin,1982,4
+Marin,1983,2
+Marin,1984,3
+Marin,1985,1
+Marin,1986,2
+Marin,1987,4
+Marin,1988,3
+Marin,1990,4
+Marin,1991,1
+Marin,1995,1
+Marin,1997,1
+Marin,1999,1
+Marin,2000,6
+Marin,2001,5
+Marin,2004,2
+Marin,2008,4
+Marin,2009,1
+Marin,2011,7
+Marin,2012,3
+Marin,2013,2
+Marin,2015,1
+Marin,2016,2
+Marin,2017,6
+Marin,2018,1
+Marin,2019,2
+Marin,2020,4
+Marin,2022,1
+Mariposa,1909,3
+Mariposa,1910,4
+Mariposa,1911,15
+Mariposa,1912,5
+Mariposa,1913,3
+Mariposa,1914,3
+Mariposa,1915,2
+Mariposa,1916,2
+Mariposa,1917,6
+Mariposa,1918,1
+Mariposa,1919,6
+Mariposa,1920,4
+Mariposa,1921,4
+Mariposa,1922,3
+Mariposa,1923,2
+Mariposa,1924,6
+Mariposa,1925,4
+Mariposa,1926,9
+Mariposa,1927,3
+Mariposa,1928,1
+Mariposa,1929,2
+Mariposa,1930,9
+Mariposa,1931,5
+Mariposa,1932,14
+Mariposa,1933,2
+Mariposa,1934,10
+Mariposa,1936,9
+Mariposa,1939,1
+Mariposa,1940,2
+Mariposa,1941,1
+Mariposa,1943,1
+Mariposa,1944,3
+Mariposa,1945,7
+Mariposa,1946,2
+Mariposa,1947,7
+Mariposa,1948,2
+Mariposa,1949,2
+Mariposa,1950,6
+Mariposa,1951,6
+Mariposa,1952,5
+Mariposa,1953,11
+Mariposa,1954,6
+Mariposa,1955,2
+Mariposa,1956,3
+Mariposa,1957,2
+Mariposa,1958,6
+Mariposa,1959,7
+Mariposa,1960,4
+Mariposa,1961,5
+Mariposa,1962,3
+Mariposa,1966,2
+Mariposa,1968,8
+Mariposa,1969,1
+Mariposa,1970,5
+Mariposa,1971,2
+Mariposa,1972,5
+Mariposa,1973,4
+Mariposa,1974,10
+Mariposa,1975,5
+Mariposa,1976,8
+Mariposa,1977,4
+Mariposa,1978,7
+Mariposa,1979,1
+Mariposa,1980,13
+Mariposa,1981,11
+Mariposa,1982,1
+Mariposa,1983,3
+Mariposa,1984,4
+Mariposa,1985,9
+Mariposa,1986,7
+Mariposa,1987,12
+Mariposa,1988,16
+Mariposa,1989,3
+Mariposa,1990,9
+Mariposa,1991,4
+Mariposa,1992,7
+Mariposa,1993,1
+Mariposa,1994,3
+Mariposa,1995,8
+Mariposa,1996,12
+Mariposa,1997,2
+Mariposa,1998,1
+Mariposa,1999,10
+Mariposa,2000,4
+Mariposa,2001,3
+Mariposa,2002,2
+Mariposa,2003,8
+Mariposa,2004,13
+Mariposa,2005,17
+Mariposa,2006,8
+Mariposa,2007,5
+Mariposa,2008,8
+Mariposa,2009,3
+Mariposa,2010,1
+Mariposa,2011,3
+Mariposa,2012,4
+Mariposa,2013,15
+Mariposa,2014,31
+Mariposa,2015,9
+Mariposa,2016,27
+Mariposa,2017,34
+Mariposa,2018,6
+Mariposa,2019,4
+Mariposa,2020,5
+Mariposa,2021,7
+Mariposa,2022,5
+Mariposa,2023,1
+Mendocino,1922,1
+Mendocino,1923,1
+Mendocino,1927,1
+Mendocino,1928,2
+Mendocino,1929,1
+Mendocino,1930,1
+Mendocino,1931,2
+Mendocino,1932,3
+Mendocino,1939,3
+Mendocino,1944,18
+Mendocino,1945,16
+Mendocino,1946,7
+Mendocino,1947,5
+Mendocino,1948,2
+Mendocino,1949,20
+Mendocino,1950,17
+Mendocino,1951,9
+Mendocino,1952,19
+Mendocino,1954,7
+Mendocino,1955,10
+Mendocino,1956,4
+Mendocino,1957,2
+Mendocino,1958,6
+Mendocino,1959,9
+Mendocino,1960,2
+Mendocino,1961,1
+Mendocino,1962,2
+Mendocino,1964,3
+Mendocino,1966,1
+Mendocino,1967,2
+Mendocino,1970,1
+Mendocino,1971,2
+Mendocino,1972,3
+Mendocino,1973,5
+Mendocino,1974,1
+Mendocino,1975,3
+Mendocino,1977,3
+Mendocino,1979,2
+Mendocino,1980,2
+Mendocino,1981,3
+Mendocino,1982,2
+Mendocino,1983,1
+Mendocino,1984,3
+Mendocino,1985,3
+Mendocino,1987,7
+Mendocino,1988,1
+Mendocino,1989,1
+Mendocino,1990,1
+Mendocino,1992,1
+Mendocino,1993,1
+Mendocino,1994,1
+Mendocino,1995,3
+Mendocino,1997,7
+Mendocino,1998,6
+Mendocino,1999,3
+Mendocino,2000,4
+Mendocino,2001,4
+Mendocino,2002,4
+Mendocino,2003,15
+Mendocino,2004,1
+Mendocino,2005,3
+Mendocino,2006,3
+Mendocino,2007,2
+Mendocino,2008,61
+Mendocino,2011,1
+Mendocino,2012,12
+Mendocino,2013,5
+Mendocino,2014,7
+Mendocino,2015,5
+Mendocino,2016,3
+Mendocino,2017,1
+Mendocino,2018,3
+Mendocino,2019,4
+Mendocino,2020,7
+Mendocino,2021,5
+Mendocino,2022,5
+Mendocino,2023,2
+Merced,1950,1
+Merced,1951,2
+Merced,1952,3
+Merced,1953,1
+Merced,1962,1
+Merced,1963,1
+Merced,1964,1
+Merced,1966,2
+Merced,1967,1
+Merced,1968,2
+Merced,1970,2
+Merced,1971,1
+Merced,1974,4
+Merced,1978,1
+Merced,1980,4
+Merced,1981,1
+Merced,1982,2
+Merced,1984,2
+Merced,1987,1
+Merced,1988,1
+Merced,1990,1
+Merced,1992,6
+Merced,1993,1
+Merced,1994,1
+Merced,1995,3
+Merced,1996,3
+Merced,1997,1
+Merced,1998,4
+Merced,1999,1
+Merced,2000,2
+Merced,2001,1
+Merced,2002,1
+Merced,2003,3
+Merced,2004,13
+Merced,2005,11
+Merced,2006,1
+Merced,2008,2
+Merced,2010,4
+Merced,2011,2
+Merced,2013,1
+Merced,2015,1
+Merced,2016,3
+Merced,2017,1
+Merced,2018,3
+Merced,2019,1
+Merced,2020,4
+Merced,2022,3
+Merced,2023,1
+Modoc,1900,1
+Modoc,1910,5
+Modoc,1912,1
+Modoc,1914,5
+Modoc,1915,8
+Modoc,1916,1
+Modoc,1917,7
+Modoc,1918,8
+Modoc,1919,10
+Modoc,1920,6
+Modoc,1921,3
+Modoc,1922,1
+Modoc,1924,13
+Modoc,1925,1
+Modoc,1926,7
+Modoc,1927,2
+Modoc,1928,11
+Modoc,1929,5
+Modoc,1931,13
+Modoc,1932,1
+Modoc,1933,3
+Modoc,1934,4
+Modoc,1935,5
+Modoc,1936,6
+Modoc,1937,3
+Modoc,1938,8
+Modoc,1939,7
+Modoc,1940,9
+Modoc,1941,2
+Modoc,1942,4
+Modoc,1943,4
+Modoc,1944,8
+Modoc,1945,8
+Modoc,1946,5
+Modoc,1947,5
+Modoc,1948,4
+Modoc,1949,11
+Modoc,1950,9
+Modoc,1951,7
+Modoc,1954,4
+Modoc,1955,4
+Modoc,1956,1
+Modoc,1957,3
+Modoc,1958,1
+Modoc,1959,2
+Modoc,1960,1
+Modoc,1961,3
+Modoc,1962,1
+Modoc,1963,4
+Modoc,1964,5
+Modoc,1965,2
+Modoc,1966,1
+Modoc,1968,2
+Modoc,1969,1
+Modoc,1970,2
+Modoc,1971,3
+Modoc,1972,4
+Modoc,1973,7
+Modoc,1974,5
+Modoc,1976,2
+Modoc,1977,11
+Modoc,1978,7
+Modoc,1979,3
+Modoc,1980,2
+Modoc,1981,6
+Modoc,1982,1
+Modoc,1983,1
+Modoc,1984,5
+Modoc,1985,1
+Modoc,1986,2
+Modoc,1987,10
+Modoc,1988,5
+Modoc,1990,7
+Modoc,1991,5
+Modoc,1992,11
+Modoc,1994,7
+Modoc,1995,4
+Modoc,1996,18
+Modoc,1997,3
+Modoc,1998,2
+Modoc,1999,15
+Modoc,2000,2
+Modoc,2001,20
+Modoc,2002,8
+Modoc,2003,5
+Modoc,2004,5
+Modoc,2005,3
+Modoc,2006,18
+Modoc,2007,13
+Modoc,2008,2
+Modoc,2009,3
+Modoc,2010,7
+Modoc,2011,4
+Modoc,2012,9
+Modoc,2013,4
+Modoc,2014,11
+Modoc,2015,6
+Modoc,2016,3
+Modoc,2017,31
+Modoc,2018,9
+Modoc,2019,10
+Modoc,2020,5
+Modoc,2021,9
+Modoc,2022,6
+Modoc,2023,4
+Mono,1943,1
+Mono,1946,1
+Mono,1947,2
+Mono,1948,1
+Mono,1951,2
+Mono,1953,1
+Mono,1955,2
+Mono,1956,2
+Mono,1958,1
+Mono,1959,1
+Mono,1960,1
+Mono,1961,2
+Mono,1962,1
+Mono,1964,5
+Mono,1966,2
+Mono,1970,3
+Mono,1972,8
+Mono,1973,3
+Mono,1974,6
+Mono,1977,4
+Mono,1978,1
+Mono,1979,1
+Mono,1980,1
+Mono,1981,1
+Mono,1983,2
+Mono,1984,2
+Mono,1985,7
+Mono,1986,4
+Mono,1987,5
+Mono,1988,1
+Mono,1989,2
+Mono,1990,2
+Mono,1993,1
+Mono,1994,1
+Mono,1995,1
+Mono,1996,4
+Mono,1997,1
+Mono,1999,2
+Mono,2000,2
+Mono,2001,2
+Mono,2002,3
+Mono,2003,4
+Mono,2004,4
+Mono,2005,4
+Mono,2006,3
+Mono,2007,5
+Mono,2008,2
+Mono,2009,1
+Mono,2010,3
+Mono,2011,1
+Mono,2012,4
+Mono,2013,1
+Mono,2014,3
+Mono,2015,4
+Mono,2016,5
+Mono,2017,3
+Mono,2018,4
+Mono,2019,3
+Mono,2020,6
+Mono,2021,3
+Mono,2023,1
+Monterey,1911,2
+Monterey,1912,2
+Monterey,1913,6
+Monterey,1914,2
+Monterey,1915,2
+Monterey,1916,6
+Monterey,1917,6
+Monterey,1918,1
+Monterey,1919,1
+Monterey,1920,5
+Monterey,1921,4
+Monterey,1922,2
+Monterey,1923,5
+Monterey,1924,4
+Monterey,1926,4
+Monterey,1927,1
+Monterey,1928,4
+Monterey,1929,2
+Monterey,1930,4
+Monterey,1931,3
+Monterey,1932,1
+Monterey,1933,3
+Monterey,1935,1
+Monterey,1936,2
+Monterey,1939,2
+Monterey,1941,10
+Monterey,1942,4
+Monterey,1943,3
+Monterey,1944,3
+Monterey,1945,5
+Monterey,1946,1
+Monterey,1947,1
+Monterey,1948,1
+Monterey,1949,1
+Monterey,1950,6
+Monterey,1951,7
+Monterey,1952,3
+Monterey,1953,5
+Monterey,1954,4
+Monterey,1955,4
+Monterey,1956,1
+Monterey,1957,5
+Monterey,1958,1
+Monterey,1959,5
+Monterey,1960,2
+Monterey,1961,2
+Monterey,1963,1
+Monterey,1964,4
+Monterey,1966,5
+Monterey,1967,3
+Monterey,1968,5
+Monterey,1969,3
+Monterey,1970,8
+Monterey,1971,4
+Monterey,1972,1
+Monterey,1974,8
+Monterey,1975,2
+Monterey,1976,2
+Monterey,1977,3
+Monterey,1978,5
+Monterey,1979,9
+Monterey,1980,6
+Monterey,1981,3
+Monterey,1983,2
+Monterey,1984,4
+Monterey,1985,8
+Monterey,1986,7
+Monterey,1987,5
+Monterey,1988,1
+Monterey,1989,1
+Monterey,1990,1
+Monterey,1992,6
+Monterey,1993,2
+Monterey,1994,2
+Monterey,1996,8
+Monterey,1997,2
+Monterey,1998,5
+Monterey,1999,3
+Monterey,2000,8
+Monterey,2001,3
+Monterey,2003,6
+Monterey,2004,3
+Monterey,2005,13
+Monterey,2006,6
+Monterey,2007,8
+Monterey,2008,9
+Monterey,2009,7
+Monterey,2010,7
+Monterey,2011,15
+Monterey,2012,9
+Monterey,2013,4
+Monterey,2014,2
+Monterey,2015,3
+Monterey,2016,12
+Monterey,2017,12
+Monterey,2018,8
+Monterey,2019,15
+Monterey,2020,21
+Monterey,2021,6
+Monterey,2022,5
+Monterey,2023,5
+Napa,1939,1
+Napa,1951,3
+Napa,1952,5
+Napa,1953,6
+Napa,1954,6
+Napa,1955,7
+Napa,1956,1
+Napa,1957,5
+Napa,1958,3
+Napa,1959,7
+Napa,1960,5
+Napa,1961,7
+Napa,1962,1
+Napa,1963,1
+Napa,1964,6
+Napa,1965,1
+Napa,1966,1
+Napa,1968,2
+Napa,1969,1
+Napa,1972,2
+Napa,1973,2
+Napa,1978,1
+Napa,1979,2
+Napa,1980,1
+Napa,1981,1
+Napa,1982,2
+Napa,1983,4
+Napa,1985,1
+Napa,1988,3
+Napa,1992,1
+Napa,1995,1
+Napa,1996,2
+Napa,1997,1
+Napa,1999,1
+Napa,2000,1
+Napa,2002,1
+Napa,2003,1
+Napa,2004,1
+Napa,2005,2
+Napa,2006,5
+Napa,2007,1
+Napa,2008,5
+Napa,2011,1
+Napa,2012,1
+Napa,2013,7
+Napa,2014,1
+Napa,2015,4
+Napa,2016,3
+Napa,2017,7
+Napa,2018,8
+Napa,2019,2
+Napa,2020,11
+Napa,2021,6
+Napa,2022,2
+Napa,2023,1
+Nevada,1908,1
+Nevada,1909,1
+Nevada,1910,5
+Nevada,1911,4
+Nevada,1913,1
+Nevada,1914,1
+Nevada,1915,2
+Nevada,1916,3
+Nevada,1917,8
+Nevada,1918,11
+Nevada,1919,7
+Nevada,1920,1
+Nevada,1921,1
+Nevada,1923,1
+Nevada,1924,11
+Nevada,1926,10
+Nevada,1928,4
+Nevada,1929,1
+Nevada,1930,2
+Nevada,1931,3
+Nevada,1932,1
+Nevada,1934,2
+Nevada,1935,3
+Nevada,1936,2
+Nevada,1939,2
+Nevada,1941,1
+Nevada,1943,3
+Nevada,1944,2
+Nevada,1946,2
+Nevada,1947,3
+Nevada,1948,1
+Nevada,1949,2
+Nevada,1950,5
+Nevada,1951,3
+Nevada,1952,1
+Nevada,1953,3
+Nevada,1955,2
+Nevada,1957,1
+Nevada,1959,3
+Nevada,1960,11
+Nevada,1961,3
+Nevada,1967,1
+Nevada,1968,1
+Nevada,1973,1
+Nevada,1976,3
+Nevada,1977,2
+Nevada,1978,1
+Nevada,1979,1
+Nevada,1980,3
+Nevada,1985,1
+Nevada,1986,1
+Nevada,1987,1
+Nevada,1988,2
+Nevada,1989,1
+Nevada,1990,2
+Nevada,1992,2
+Nevada,1994,4
+Nevada,1996,2
+Nevada,1997,1
+Nevada,1999,1
+Nevada,2001,3
+Nevada,2002,3
+Nevada,2003,3
+Nevada,2004,3
+Nevada,2005,2
+Nevada,2006,3
+Nevada,2007,6
+Nevada,2008,3
+Nevada,2009,2
+Nevada,2011,1
+Nevada,2013,2
+Nevada,2014,4
+Nevada,2015,3
+Nevada,2016,3
+Nevada,2017,10
+Nevada,2018,1
+Nevada,2020,1
+Nevada,2021,3
+Nevada,2022,8
+Nevada,2023,1
+Orange,1914,1
+Orange,1918,1
+Orange,1919,2
+Orange,1920,1
+Orange,1921,2
+Orange,1922,1
+Orange,1923,1
+Orange,1925,1
+Orange,1926,1
+Orange,1927,1
+Orange,1928,1
+Orange,1929,1
+Orange,1930,1
+Orange,1931,1
+Orange,1937,1
+Orange,1942,1
+Orange,1943,2
+Orange,1944,1
+Orange,1947,1
+Orange,1948,1
+Orange,1950,1
+Orange,1951,1
+Orange,1954,2
+Orange,1955,1
+Orange,1956,2
+Orange,1957,2
+Orange,1958,4
+Orange,1959,3
+Orange,1961,2
+Orange,1962,1
+Orange,1963,1
+Orange,1966,1
+Orange,1967,2
+Orange,1968,1
+Orange,1970,3
+Orange,1971,1
+Orange,1973,1
+Orange,1975,3
+Orange,1976,5
+Orange,1977,1
+Orange,1978,2
+Orange,1979,6
+Orange,1980,3
+Orange,1982,1
+Orange,1984,3
+Orange,1985,4
+Orange,1987,1
+Orange,1988,1
+Orange,1989,2
+Orange,1990,3
+Orange,1991,1
+Orange,1993,4
+Orange,1994,4
+Orange,1997,4
+Orange,2000,3
+Orange,2001,3
+Orange,2002,10
+Orange,2004,8
+Orange,2005,1
+Orange,2006,1
+Orange,2007,12
+Orange,2008,1
+Orange,2009,3
+Orange,2010,1
+Orange,2011,3
+Orange,2012,1
+Orange,2014,1
+Orange,2016,9
+Orange,2017,29
+Orange,2018,21
+Orange,2019,6
+Orange,2020,11
+Orange,2021,7
+Orange,2022,3
+Placer,1908,3
+Placer,1909,1
+Placer,1910,9
+Placer,1911,1
+Placer,1913,2
+Placer,1916,2
+Placer,1917,6
+Placer,1918,4
+Placer,1919,4
+Placer,1921,1
+Placer,1923,1
+Placer,1924,10
+Placer,1925,2
+Placer,1926,3
+Placer,1927,1
+Placer,1928,2
+Placer,1929,1
+Placer,1931,5
+Placer,1933,1
+Placer,1934,1
+Placer,1936,1
+Placer,1939,3
+Placer,1944,1
+Placer,1946,1
+Placer,1948,1
+Placer,1949,5
+Placer,1950,2
+Placer,1951,4
+Placer,1952,1
+Placer,1953,1
+Placer,1954,2
+Placer,1955,2
+Placer,1956,1
+Placer,1958,1
+Placer,1959,2
+Placer,1960,4
+Placer,1961,5
+Placer,1962,1
+Placer,1964,4
+Placer,1965,2
+Placer,1967,1
+Placer,1969,1
+Placer,1970,2
+Placer,1972,1
+Placer,1976,1
+Placer,1977,2
+Placer,1979,1
+Placer,1980,2
+Placer,1981,2
+Placer,1982,1
+Placer,1983,1
+Placer,1984,1
+Placer,1985,2
+Placer,1986,5
+Placer,1987,3
+Placer,1988,1
+Placer,1989,2
+Placer,1995,1
+Placer,2000,3
+Placer,2001,8
+Placer,2002,3
+Placer,2003,5
+Placer,2004,4
+Placer,2005,1
+Placer,2006,3
+Placer,2007,15
+Placer,2008,16
+Placer,2009,11
+Placer,2010,13
+Placer,2011,5
+Placer,2012,7
+Placer,2013,8
+Placer,2014,6
+Placer,2015,9
+Placer,2016,9
+Placer,2017,7
+Placer,2018,8
+Placer,2019,5
+Placer,2020,13
+Placer,2021,5
+Placer,2022,13
+Placer,2023,3
+Plumas,1900,1
+Plumas,1910,1
+Plumas,1911,1
+Plumas,1916,3
+Plumas,1917,6
+Plumas,1918,9
+Plumas,1919,10
+Plumas,1920,16
+Plumas,1921,4
+Plumas,1922,1
+Plumas,1923,1
+Plumas,1924,1
+Plumas,1926,11
+Plumas,1927,3
+Plumas,1928,7
+Plumas,1929,9
+Plumas,1930,4
+Plumas,1931,5
+Plumas,1932,6
+Plumas,1933,1
+Plumas,1934,3
+Plumas,1935,1
+Plumas,1936,5
+Plumas,1937,5
+Plumas,1938,2
+Plumas,1939,2
+Plumas,1941,2
+Plumas,1942,3
+Plumas,1943,2
+Plumas,1945,1
+Plumas,1946,8
+Plumas,1947,3
+Plumas,1949,6
+Plumas,1950,6
+Plumas,1951,3
+Plumas,1952,1
+Plumas,1954,1
+Plumas,1955,2
+Plumas,1957,1
+Plumas,1959,5
+Plumas,1960,5
+Plumas,1964,4
+Plumas,1966,2
+Plumas,1969,1
+Plumas,1970,2
+Plumas,1971,1
+Plumas,1972,8
+Plumas,1973,5
+Plumas,1974,4
+Plumas,1976,7
+Plumas,1977,6
+Plumas,1978,1
+Plumas,1979,6
+Plumas,1980,2
+Plumas,1981,12
+Plumas,1982,1
+Plumas,1983,3
+Plumas,1984,5
+Plumas,1986,3
+Plumas,1987,5
+Plumas,1988,9
+Plumas,1989,4
+Plumas,1990,6
+Plumas,1996,8
+Plumas,1997,1
+Plumas,1999,9
+Plumas,2000,1
+Plumas,2001,1
+Plumas,2002,3
+Plumas,2003,3
+Plumas,2004,5
+Plumas,2005,2
+Plumas,2006,10
+Plumas,2007,6
+Plumas,2008,14
+Plumas,2009,3
+Plumas,2010,5
+Plumas,2011,1
+Plumas,2012,4
+Plumas,2013,6
+Plumas,2014,1
+Plumas,2015,3
+Plumas,2016,2
+Plumas,2017,11
+Plumas,2018,5
+Plumas,2019,7
+Plumas,2020,9
+Plumas,2021,6
+Riverside,1900,4
+Riverside,1906,1
+Riverside,1907,2
+Riverside,1909,2
+Riverside,1910,1
+Riverside,1911,5
+Riverside,1912,1
+Riverside,1913,2
+Riverside,1914,10
+Riverside,1915,5
+Riverside,1916,3
+Riverside,1917,11
+Riverside,1918,2
+Riverside,1919,4
+Riverside,1920,3
+Riverside,1921,7
+Riverside,1922,1
+Riverside,1923,12
+Riverside,1924,2
+Riverside,1925,6
+Riverside,1926,5
+Riverside,1927,2
+Riverside,1928,4
+Riverside,1929,5
+Riverside,1930,3
+Riverside,1931,1
+Riverside,1932,2
+Riverside,1933,4
+Riverside,1934,1
+Riverside,1935,1
+Riverside,1937,2
+Riverside,1938,5
+Riverside,1939,1
+Riverside,1940,5
+Riverside,1941,7
+Riverside,1942,8
+Riverside,1943,3
+Riverside,1944,4
+Riverside,1945,9
+Riverside,1946,1
+Riverside,1948,2
+Riverside,1949,2
+Riverside,1950,4
+Riverside,1951,7
+Riverside,1952,8
+Riverside,1953,9
+Riverside,1954,4
+Riverside,1955,4
+Riverside,1956,6
+Riverside,1957,10
+Riverside,1958,17
+Riverside,1959,4
+Riverside,1960,5
+Riverside,1961,2
+Riverside,1962,11
+Riverside,1963,7
+Riverside,1964,1
+Riverside,1965,8
+Riverside,1966,5
+Riverside,1967,7
+Riverside,1968,21
+Riverside,1969,3
+Riverside,1970,18
+Riverside,1971,4
+Riverside,1972,7
+Riverside,1973,13
+Riverside,1974,12
+Riverside,1975,14
+Riverside,1976,8
+Riverside,1977,13
+Riverside,1978,18
+Riverside,1979,93
+Riverside,1980,62
+Riverside,1981,42
+Riverside,1982,24
+Riverside,1983,19
+Riverside,1984,11
+Riverside,1985,14
+Riverside,1986,11
+Riverside,1987,18
+Riverside,1988,33
+Riverside,1989,18
+Riverside,1990,4
+Riverside,1991,5
+Riverside,1992,14
+Riverside,1993,20
+Riverside,1994,23
+Riverside,1995,41
+Riverside,1996,45
+Riverside,1997,14
+Riverside,1998,11
+Riverside,1999,11
+Riverside,2000,4
+Riverside,2001,11
+Riverside,2002,5
+Riverside,2003,11
+Riverside,2004,21
+Riverside,2005,23
+Riverside,2006,17
+Riverside,2007,15
+Riverside,2008,7
+Riverside,2009,14
+Riverside,2010,25
+Riverside,2011,20
+Riverside,2012,35
+Riverside,2013,21
+Riverside,2014,9
+Riverside,2015,10
+Riverside,2016,7
+Riverside,2017,20
+Riverside,2018,10
+Riverside,2019,11
+Riverside,2020,18
+Riverside,2021,10
+Riverside,2022,5
+Riverside,2023,17
+Sacramento,1950,3
+Sacramento,1962,1
+Sacramento,1964,1
+Sacramento,1968,1
+Sacramento,1973,1
+Sacramento,1974,2
+Sacramento,1976,1
+Sacramento,1980,1
+Sacramento,1981,4
+Sacramento,1983,3
+Sacramento,1986,5
+Sacramento,1992,1
+Sacramento,1996,1
+Sacramento,2001,4
+Sacramento,2002,5
+Sacramento,2004,1
+Sacramento,2005,1
+Sacramento,2015,2
+Sacramento,2016,5
+Sacramento,2017,2
+Sacramento,2018,4
+Sacramento,2019,1
+Sacramento,2020,4
+Sacramento,2022,3
+Sacramento,2023,1
+San Benito,1931,3
+San Benito,1934,1
+San Benito,1935,1
+San Benito,1936,1
+San Benito,1938,1
+San Benito,1939,1
+San Benito,1940,4
+San Benito,1941,3
+San Benito,1944,1
+San Benito,1947,2
+San Benito,1949,1
+San Benito,1950,3
+San Benito,1951,2
+San Benito,1952,3
+San Benito,1953,2
+San Benito,1954,2
+San Benito,1955,2
+San Benito,1957,3
+San Benito,1958,2
+San Benito,1959,2
+San Benito,1960,1
+San Benito,1961,1
+San Benito,1963,2
+San Benito,1965,1
+San Benito,1966,1
+San Benito,1967,2
+San Benito,1968,2
+San Benito,1969,2
+San Benito,1970,2
+San Benito,1971,3
+San Benito,1973,2
+San Benito,1974,3
+San Benito,1975,1
+San Benito,1978,1
+San Benito,1979,9
+San Benito,1980,1
+San Benito,1981,8
+San Benito,1982,5
+San Benito,1983,1
+San Benito,1984,1
+San Benito,1985,1
+San Benito,1986,1
+San Benito,1987,2
+San Benito,1989,1
+San Benito,1990,1
+San Benito,1994,1
+San Benito,1995,2
+San Benito,1996,2
+San Benito,1998,1
+San Benito,1999,1
+San Benito,2000,1
+San Benito,2001,1
+San Benito,2002,1
+San Benito,2003,1
+San Benito,2004,1
+San Benito,2005,2
+San Benito,2006,3
+San Benito,2007,4
+San Benito,2008,1
+San Benito,2010,4
+San Benito,2011,6
+San Benito,2012,2
+San Benito,2013,2
+San Benito,2015,2
+San Benito,2016,5
+San Benito,2017,4
+San Benito,2018,9
+San Benito,2019,3
+San Benito,2020,5
+San Benito,2021,3
+San Benito,2022,4
+San Benito,2023,2
+San Bernardino,1903,1
+San Bernardino,1906,2
+San Bernardino,1907,4
+San Bernardino,1908,6
+San Bernardino,1909,3
+San Bernardino,1910,3
+San Bernardino,1911,13
+San Bernardino,1912,11
+San Bernardino,1913,8
+San Bernardino,1914,13
+San Bernardino,1915,8
+San Bernardino,1916,6
+San Bernardino,1917,8
+San Bernardino,1918,3
+San Bernardino,1919,7
+San Bernardino,1920,3
+San Bernardino,1921,14
+San Bernardino,1922,4
+San Bernardino,1923,17
+San Bernardino,1924,12
+San Bernardino,1925,7
+San Bernardino,1926,3
+San Bernardino,1927,7
+San Bernardino,1928,9
+San Bernardino,1929,2
+San Bernardino,1930,5
+San Bernardino,1931,4
+San Bernardino,1933,1
+San Bernardino,1935,2
+San Bernardino,1936,4
+San Bernardino,1937,2
+San Bernardino,1938,2
+San Bernardino,1940,2
+San Bernardino,1941,2
+San Bernardino,1942,7
+San Bernardino,1943,5
+San Bernardino,1944,2
+San Bernardino,1945,4
+San Bernardino,1946,2
+San Bernardino,1947,6
+San Bernardino,1948,5
+San Bernardino,1949,4
+San Bernardino,1950,10
+San Bernardino,1951,6
+San Bernardino,1952,8
+San Bernardino,1953,13
+San Bernardino,1954,7
+San Bernardino,1955,6
+San Bernardino,1956,10
+San Bernardino,1957,10
+San Bernardino,1958,12
+San Bernardino,1959,8
+San Bernardino,1960,9
+San Bernardino,1961,4
+San Bernardino,1962,3
+San Bernardino,1963,2
+San Bernardino,1964,5
+San Bernardino,1965,3
+San Bernardino,1966,3
+San Bernardino,1967,10
+San Bernardino,1968,12
+San Bernardino,1969,5
+San Bernardino,1970,20
+San Bernardino,1971,3
+San Bernardino,1972,3
+San Bernardino,1973,7
+San Bernardino,1974,9
+San Bernardino,1975,20
+San Bernardino,1976,8
+San Bernardino,1977,4
+San Bernardino,1978,10
+San Bernardino,1979,30
+San Bernardino,1980,37
+San Bernardino,1981,7
+San Bernardino,1982,3
+San Bernardino,1983,9
+San Bernardino,1984,9
+San Bernardino,1985,4
+San Bernardino,1986,3
+San Bernardino,1987,19
+San Bernardino,1988,20
+San Bernardino,1989,14
+San Bernardino,1990,11
+San Bernardino,1991,7
+San Bernardino,1992,7
+San Bernardino,1993,10
+San Bernardino,1994,14
+San Bernardino,1995,14
+San Bernardino,1996,24
+San Bernardino,1997,8
+San Bernardino,1998,7
+San Bernardino,1999,6
+San Bernardino,2001,9
+San Bernardino,2002,8
+San Bernardino,2003,6
+San Bernardino,2004,5
+San Bernardino,2005,29
+San Bernardino,2006,27
+San Bernardino,2007,22
+San Bernardino,2008,11
+San Bernardino,2009,9
+San Bernardino,2010,7
+San Bernardino,2011,19
+San Bernardino,2012,14
+San Bernardino,2013,14
+San Bernardino,2014,3
+San Bernardino,2015,9
+San Bernardino,2016,8
+San Bernardino,2017,23
+San Bernardino,2018,8
+San Bernardino,2019,5
+San Bernardino,2020,25
+San Bernardino,2021,18
+San Bernardino,2022,9
+San Bernardino,2023,4
+San Diego,1910,11
+San Diego,1911,25
+San Diego,1912,9
+San Diego,1913,12
+San Diego,1914,15
+San Diego,1915,11
+San Diego,1916,3
+San Diego,1917,15
+San Diego,1918,3
+San Diego,1919,15
+San Diego,1920,3
+San Diego,1921,9
+San Diego,1922,3
+San Diego,1923,8
+San Diego,1924,5
+San Diego,1925,13
+San Diego,1926,12
+San Diego,1927,12
+San Diego,1928,14
+San Diego,1929,8
+San Diego,1930,5
+San Diego,1931,9
+San Diego,1932,3
+San Diego,1933,9
+San Diego,1934,6
+San Diego,1935,8
+San Diego,1936,4
+San Diego,1937,4
+San Diego,1938,19
+San Diego,1939,13
+San Diego,1940,11
+San Diego,1941,12
+San Diego,1942,19
+San Diego,1943,15
+San Diego,1944,23
+San Diego,1945,14
+San Diego,1946,6
+San Diego,1947,20
+San Diego,1948,7
+San Diego,1949,18
+San Diego,1950,25
+San Diego,1951,18
+San Diego,1952,8
+San Diego,1953,27
+San Diego,1954,9
+San Diego,1955,10
+San Diego,1956,17
+San Diego,1957,8
+San Diego,1958,22
+San Diego,1959,8
+San Diego,1960,3
+San Diego,1961,6
+San Diego,1962,6
+San Diego,1963,5
+San Diego,1964,5
+San Diego,1965,4
+San Diego,1966,2
+San Diego,1967,16
+San Diego,1968,14
+San Diego,1969,12
+San Diego,1970,23
+San Diego,1971,11
+San Diego,1972,14
+San Diego,1973,11
+San Diego,1974,24
+San Diego,1975,23
+San Diego,1976,16
+San Diego,1977,6
+San Diego,1978,20
+San Diego,1979,41
+San Diego,1980,33
+San Diego,1981,32
+San Diego,1982,26
+San Diego,1983,28
+San Diego,1984,22
+San Diego,1985,20
+San Diego,1986,21
+San Diego,1987,23
+San Diego,1988,20
+San Diego,1989,25
+San Diego,1990,9
+San Diego,1991,5
+San Diego,1992,11
+San Diego,1993,14
+San Diego,1994,10
+San Diego,1995,20
+San Diego,1996,21
+San Diego,1997,18
+San Diego,1998,6
+San Diego,1999,27
+San Diego,2000,9
+San Diego,2001,2
+San Diego,2002,15
+San Diego,2003,14
+San Diego,2004,21
+San Diego,2005,33
+San Diego,2006,19
+San Diego,2007,18
+San Diego,2008,8
+San Diego,2009,4
+San Diego,2010,10
+San Diego,2011,7
+San Diego,2012,18
+San Diego,2013,16
+San Diego,2014,14
+San Diego,2015,6
+San Diego,2016,11
+San Diego,2017,18
+San Diego,2018,16
+San Diego,2019,22
+San Diego,2020,8
+San Diego,2021,22
+San Diego,2022,27
+San Diego,2023,12
+San Francisco,1968,1
+San Joaquin,1951,1
+San Joaquin,1952,2
+San Joaquin,1953,1
+San Joaquin,1954,1
+San Joaquin,1958,3
+San Joaquin,1961,1
+San Joaquin,1967,2
+San Joaquin,1970,1
+San Joaquin,1971,1
+San Joaquin,1974,1
+San Joaquin,1975,2
+San Joaquin,1979,1
+San Joaquin,1980,2
+San Joaquin,1981,1
+San Joaquin,1982,1
+San Joaquin,1983,1
+San Joaquin,1984,3
+San Joaquin,1986,1
+San Joaquin,1989,2
+San Joaquin,1992,1
+San Joaquin,1994,2
+San Joaquin,1995,2
+San Joaquin,1996,1
+San Joaquin,1997,3
+San Joaquin,2000,2
+San Joaquin,2001,2
+San Joaquin,2002,4
+San Joaquin,2003,5
+San Joaquin,2004,2
+San Joaquin,2005,5
+San Joaquin,2006,1
+San Joaquin,2007,1
+San Joaquin,2009,4
+San Joaquin,2011,1
+San Joaquin,2012,1
+San Joaquin,2013,2
+San Joaquin,2015,1
+San Joaquin,2017,2
+San Joaquin,2018,2
+San Joaquin,2019,5
+San Joaquin,2020,2
+San Joaquin,2021,1
+San Joaquin,2022,1
+San Luis Obispo,1912,1
+San Luis Obispo,1913,8
+San Luis Obispo,1914,4
+San Luis Obispo,1915,6
+San Luis Obispo,1916,5
+San Luis Obispo,1917,6
+San Luis Obispo,1918,2
+San Luis Obispo,1919,2
+San Luis Obispo,1920,1
+San Luis Obispo,1921,5
+San Luis Obispo,1922,5
+San Luis Obispo,1923,4
+San Luis Obispo,1924,4
+San Luis Obispo,1925,1
+San Luis Obispo,1926,1
+San Luis Obispo,1927,1
+San Luis Obispo,1928,4
+San Luis Obispo,1929,4
+San Luis Obispo,1930,4
+San Luis Obispo,1931,3
+San Luis Obispo,1932,1
+San Luis Obispo,1934,1
+San Luis Obispo,1939,3
+San Luis Obispo,1940,1
+San Luis Obispo,1941,1
+San Luis Obispo,1942,2
+San Luis Obispo,1944,1
+San Luis Obispo,1945,1
+San Luis Obispo,1946,1
+San Luis Obispo,1947,4
+San Luis Obispo,1948,1
+San Luis Obispo,1949,2
+San Luis Obispo,1950,7
+San Luis Obispo,1951,7
+San Luis Obispo,1952,4
+San Luis Obispo,1953,3
+San Luis Obispo,1954,3
+San Luis Obispo,1955,4
+San Luis Obispo,1956,4
+San Luis Obispo,1957,4
+San Luis Obispo,1958,2
+San Luis Obispo,1959,2
+San Luis Obispo,1960,6
+San Luis Obispo,1961,3
+San Luis Obispo,1962,1
+San Luis Obispo,1963,3
+San Luis Obispo,1966,4
+San Luis Obispo,1967,1
+San Luis Obispo,1968,12
+San Luis Obispo,1969,7
+San Luis Obispo,1970,3
+San Luis Obispo,1973,3
+San Luis Obispo,1974,3
+San Luis Obispo,1975,2
+San Luis Obispo,1976,1
+San Luis Obispo,1978,1
+San Luis Obispo,1979,10
+San Luis Obispo,1980,1
+San Luis Obispo,1981,17
+San Luis Obispo,1982,5
+San Luis Obispo,1983,3
+San Luis Obispo,1984,11
+San Luis Obispo,1985,7
+San Luis Obispo,1986,8
+San Luis Obispo,1987,9
+San Luis Obispo,1988,5
+San Luis Obispo,1989,7
+San Luis Obispo,1990,1
+San Luis Obispo,1992,5
+San Luis Obispo,1993,5
+San Luis Obispo,1994,2
+San Luis Obispo,1995,6
+San Luis Obispo,1996,12
+San Luis Obispo,1997,6
+San Luis Obispo,1998,18
+San Luis Obispo,1999,11
+San Luis Obispo,2000,14
+San Luis Obispo,2002,2
+San Luis Obispo,2003,5
+San Luis Obispo,2004,5
+San Luis Obispo,2005,19
+San Luis Obispo,2006,4
+San Luis Obispo,2007,14
+San Luis Obispo,2008,9
+San Luis Obispo,2009,5
+San Luis Obispo,2010,8
+San Luis Obispo,2011,13
+San Luis Obispo,2012,5
+San Luis Obispo,2013,8
+San Luis Obispo,2014,2
+San Luis Obispo,2015,5
+San Luis Obispo,2016,13
+San Luis Obispo,2017,30
+San Luis Obispo,2018,19
+San Luis Obispo,2019,30
+San Luis Obispo,2020,58
+San Luis Obispo,2021,16
+San Luis Obispo,2022,16
+San Luis Obispo,2023,43
+San Mateo,1962,4
+San Mateo,1964,1
+San Mateo,1969,1
+San Mateo,1984,1
+San Mateo,1985,1
+San Mateo,2008,1
+San Mateo,2017,1
+San Mateo,2019,2
+San Mateo,2020,2
+San Mateo,2021,1
+San Mateo,2022,3
+San Mateo,2023,1
+Santa Barbara,1912,1
+Santa Barbara,1913,8
+Santa Barbara,1914,11
+Santa Barbara,1915,10
+Santa Barbara,1916,1
+Santa Barbara,1917,5
+Santa Barbara,1918,2
+Santa Barbara,1919,2
+Santa Barbara,1920,4
+Santa Barbara,1921,14
+Santa Barbara,1922,8
+Santa Barbara,1923,10
+Santa Barbara,1924,4
+Santa Barbara,1925,5
+Santa Barbara,1926,7
+Santa Barbara,1927,3
+Santa Barbara,1928,7
+Santa Barbara,1929,4
+Santa Barbara,1930,2
+Santa Barbara,1931,5
+Santa Barbara,1932,2
+Santa Barbara,1933,1
+Santa Barbara,1934,2
+Santa Barbara,1935,2
+Santa Barbara,1938,1
+Santa Barbara,1939,4
+Santa Barbara,1940,3
+Santa Barbara,1941,1
+Santa Barbara,1943,2
+Santa Barbara,1944,2
+Santa Barbara,1945,1
+Santa Barbara,1950,6
+Santa Barbara,1952,7
+Santa Barbara,1953,1
+Santa Barbara,1954,1
+Santa Barbara,1955,2
+Santa Barbara,1956,1
+Santa Barbara,1957,4
+Santa Barbara,1959,2
+Santa Barbara,1961,1
+Santa Barbara,1963,1
+Santa Barbara,1964,3
+Santa Barbara,1965,2
+Santa Barbara,1966,8
+Santa Barbara,1967,3
+Santa Barbara,1968,4
+Santa Barbara,1969,2
+Santa Barbara,1970,6
+Santa Barbara,1971,4
+Santa Barbara,1972,1
+Santa Barbara,1974,1
+Santa Barbara,1975,2
+Santa Barbara,1976,1
+Santa Barbara,1977,3
+Santa Barbara,1978,1
+Santa Barbara,1979,8
+Santa Barbara,1980,4
+Santa Barbara,1981,8
+Santa Barbara,1982,4
+Santa Barbara,1983,4
+Santa Barbara,1984,13
+Santa Barbara,1985,5
+Santa Barbara,1986,4
+Santa Barbara,1987,2
+Santa Barbara,1988,7
+Santa Barbara,1989,5
+Santa Barbara,1990,5
+Santa Barbara,1991,2
+Santa Barbara,1992,6
+Santa Barbara,1993,8
+Santa Barbara,1994,7
+Santa Barbara,1995,5
+Santa Barbara,1996,4
+Santa Barbara,1997,12
+Santa Barbara,1998,4
+Santa Barbara,1999,7
+Santa Barbara,2000,21
+Santa Barbara,2001,14
+Santa Barbara,2002,9
+Santa Barbara,2003,7
+Santa Barbara,2004,7
+Santa Barbara,2005,1
+Santa Barbara,2006,7
+Santa Barbara,2007,6
+Santa Barbara,2008,6
+Santa Barbara,2009,5
+Santa Barbara,2010,4
+Santa Barbara,2011,9
+Santa Barbara,2012,2
+Santa Barbara,2013,1
+Santa Barbara,2014,1
+Santa Barbara,2015,6
+Santa Barbara,2016,6
+Santa Barbara,2017,16
+Santa Barbara,2018,9
+Santa Barbara,2019,6
+Santa Barbara,2020,16
+Santa Barbara,2021,6
+Santa Barbara,2022,1
+Santa Barbara,2023,4
+Santa Clara,1950,1
+Santa Clara,1951,2
+Santa Clara,1952,2
+Santa Clara,1953,1
+Santa Clara,1954,2
+Santa Clara,1955,2
+Santa Clara,1961,2
+Santa Clara,1966,1
+Santa Clara,1971,2
+Santa Clara,1979,2
+Santa Clara,1980,1
+Santa Clara,1981,1
+Santa Clara,1982,1
+Santa Clara,1984,2
+Santa Clara,1985,5
+Santa Clara,1988,2
+Santa Clara,1989,5
+Santa Clara,1990,1
+Santa Clara,1996,1
+Santa Clara,1997,2
+Santa Clara,1998,1
+Santa Clara,1999,1
+Santa Clara,2000,3
+Santa Clara,2002,2
+Santa Clara,2003,5
+Santa Clara,2004,3
+Santa Clara,2006,1
+Santa Clara,2007,2
+Santa Clara,2008,5
+Santa Clara,2009,2
+Santa Clara,2011,1
+Santa Clara,2015,1
+Santa Clara,2016,3
+Santa Clara,2017,3
+Santa Clara,2018,2
+Santa Clara,2019,1
+Santa Clara,2020,3
+Santa Clara,2021,3
+Santa Clara,2022,2
+Santa Cruz,1954,1
+Santa Cruz,1959,1
+Santa Cruz,1961,1
+Santa Cruz,1962,1
+Santa Cruz,1980,1
+Santa Cruz,1984,1
+Santa Cruz,1985,1
+Santa Cruz,2002,1
+Santa Cruz,2008,4
+Santa Cruz,2009,2
+Santa Cruz,2016,1
+Santa Cruz,2017,2
+Santa Cruz,2018,2
+Santa Cruz,2019,1
+Santa Cruz,2020,2
+Santa Cruz,2021,6
+Shasta,1900,1
+Shasta,1910,3
+Shasta,1911,9
+Shasta,1917,16
+Shasta,1918,2
+Shasta,1919,2
+Shasta,1920,9
+Shasta,1921,3
+Shasta,1922,8
+Shasta,1923,3
+Shasta,1924,21
+Shasta,1925,1
+Shasta,1926,5
+Shasta,1928,3
+Shasta,1929,2
+Shasta,1930,10
+Shasta,1931,20
+Shasta,1932,7
+Shasta,1933,1
+Shasta,1934,10
+Shasta,1935,3
+Shasta,1936,1
+Shasta,1938,4
+Shasta,1939,11
+Shasta,1940,2
+Shasta,1941,1
+Shasta,1942,3
+Shasta,1943,2
+Shasta,1944,7
+Shasta,1945,6
+Shasta,1946,2
+Shasta,1947,2
+Shasta,1948,2
+Shasta,1949,5
+Shasta,1950,18
+Shasta,1951,5
+Shasta,1952,4
+Shasta,1953,1
+Shasta,1954,4
+Shasta,1955,3
+Shasta,1956,3
+Shasta,1957,8
+Shasta,1958,5
+Shasta,1959,1
+Shasta,1960,1
+Shasta,1961,2
+Shasta,1962,2
+Shasta,1963,3
+Shasta,1965,3
+Shasta,1966,2
+Shasta,1967,1
+Shasta,1968,1
+Shasta,1969,2
+Shasta,1972,4
+Shasta,1973,2
+Shasta,1974,1
+Shasta,1977,2
+Shasta,1978,2
+Shasta,1980,4
+Shasta,1982,4
+Shasta,1983,1
+Shasta,1984,4
+Shasta,1985,9
+Shasta,1986,5
+Shasta,1987,7
+Shasta,1988,4
+Shasta,1989,2
+Shasta,1990,9
+Shasta,1991,2
+Shasta,1992,3
+Shasta,1994,2
+Shasta,1995,1
+Shasta,1996,5
+Shasta,1997,1
+Shasta,1999,19
+Shasta,2000,1
+Shasta,2001,6
+Shasta,2002,9
+Shasta,2003,12
+Shasta,2004,26
+Shasta,2005,10
+Shasta,2006,6
+Shasta,2007,10
+Shasta,2008,20
+Shasta,2009,18
+Shasta,2010,1
+Shasta,2011,3
+Shasta,2012,13
+Shasta,2013,6
+Shasta,2014,6
+Shasta,2015,5
+Shasta,2016,4
+Shasta,2017,6
+Shasta,2018,15
+Shasta,2019,10
+Shasta,2020,17
+Shasta,2021,14
+Shasta,2022,5
+Shasta,2023,5
+Sierra,1909,5
+Sierra,1910,7
+Sierra,1911,3
+Sierra,1912,1
+Sierra,1914,1
+Sierra,1915,3
+Sierra,1916,5
+Sierra,1917,6
+Sierra,1918,4
+Sierra,1919,5
+Sierra,1920,1
+Sierra,1921,1
+Sierra,1923,1
+Sierra,1924,7
+Sierra,1925,1
+Sierra,1926,5
+Sierra,1927,2
+Sierra,1929,2
+Sierra,1930,1
+Sierra,1931,1
+Sierra,1932,3
+Sierra,1933,2
+Sierra,1934,5
+Sierra,1935,2
+Sierra,1936,3
+Sierra,1937,1
+Sierra,1940,2
+Sierra,1941,6
+Sierra,1943,1
+Sierra,1944,3
+Sierra,1945,3
+Sierra,1947,5
+Sierra,1948,1
+Sierra,1949,5
+Sierra,1950,2
+Sierra,1951,2
+Sierra,1953,1
+Sierra,1954,2
+Sierra,1955,2
+Sierra,1956,2
+Sierra,1959,3
+Sierra,1960,10
+Sierra,1961,1
+Sierra,1966,1
+Sierra,1968,1
+Sierra,1970,1
+Sierra,1971,2
+Sierra,1972,3
+Sierra,1974,2
+Sierra,1976,2
+Sierra,1977,1
+Sierra,1978,1
+Sierra,1980,1
+Sierra,1984,3
+Sierra,1985,1
+Sierra,1987,3
+Sierra,1988,7
+Sierra,1989,1
+Sierra,1990,4
+Sierra,1991,1
+Sierra,1993,1
+Sierra,1994,2
+Sierra,1996,1
+Sierra,2000,1
+Sierra,2001,2
+Sierra,2003,2
+Sierra,2004,1
+Sierra,2005,1
+Sierra,2006,1
+Sierra,2007,1
+Sierra,2008,2
+Sierra,2009,2
+Sierra,2011,1
+Sierra,2014,2
+Sierra,2016,1
+Sierra,2017,1
+Sierra,2019,3
+Sierra,2020,3
+Sierra,2023,1
+Siskiyou,1900,1
+Siskiyou,1910,2
+Siskiyou,1911,3
+Siskiyou,1914,2
+Siskiyou,1915,10
+Siskiyou,1916,1
+Siskiyou,1917,29
+Siskiyou,1918,23
+Siskiyou,1919,12
+Siskiyou,1920,11
+Siskiyou,1921,2
+Siskiyou,1922,8
+Siskiyou,1923,4
+Siskiyou,1924,27
+Siskiyou,1925,4
+Siskiyou,1926,12
+Siskiyou,1927,1
+Siskiyou,1928,6
+Siskiyou,1929,11
+Siskiyou,1930,8
+Siskiyou,1931,10
+Siskiyou,1932,7
+Siskiyou,1933,8
+Siskiyou,1934,29
+Siskiyou,1935,11
+Siskiyou,1936,10
+Siskiyou,1937,4
+Siskiyou,1938,11
+Siskiyou,1939,33
+Siskiyou,1940,8
+Siskiyou,1941,8
+Siskiyou,1942,10
+Siskiyou,1943,17
+Siskiyou,1944,9
+Siskiyou,1945,27
+Siskiyou,1946,10
+Siskiyou,1947,4
+Siskiyou,1948,2
+Siskiyou,1949,13
+Siskiyou,1950,8
+Siskiyou,1951,16
+Siskiyou,1952,6
+Siskiyou,1953,7
+Siskiyou,1954,6
+Siskiyou,1955,21
+Siskiyou,1956,9
+Siskiyou,1957,7
+Siskiyou,1958,3
+Siskiyou,1959,13
+Siskiyou,1960,3
+Siskiyou,1961,5
+Siskiyou,1962,6
+Siskiyou,1963,2
+Siskiyou,1964,6
+Siskiyou,1965,2
+Siskiyou,1966,4
+Siskiyou,1967,3
+Siskiyou,1968,12
+Siskiyou,1969,6
+Siskiyou,1970,3
+Siskiyou,1971,4
+Siskiyou,1972,9
+Siskiyou,1973,8
+Siskiyou,1974,2
+Siskiyou,1975,4
+Siskiyou,1976,1
+Siskiyou,1977,14
+Siskiyou,1978,2
+Siskiyou,1979,3
+Siskiyou,1980,5
+Siskiyou,1981,2
+Siskiyou,1982,3
+Siskiyou,1983,2
+Siskiyou,1984,3
+Siskiyou,1985,5
+Siskiyou,1986,1
+Siskiyou,1987,26
+Siskiyou,1988,6
+Siskiyou,1989,2
+Siskiyou,1990,2
+Siskiyou,1992,5
+Siskiyou,1994,8
+Siskiyou,1995,2
+Siskiyou,1996,3
+Siskiyou,1998,4
+Siskiyou,1999,12
+Siskiyou,2000,19
+Siskiyou,2001,13
+Siskiyou,2002,6
+Siskiyou,2003,7
+Siskiyou,2004,11
+Siskiyou,2005,3
+Siskiyou,2006,27
+Siskiyou,2007,23
+Siskiyou,2008,28
+Siskiyou,2009,10
+Siskiyou,2010,17
+Siskiyou,2011,20
+Siskiyou,2012,32
+Siskiyou,2013,13
+Siskiyou,2014,18
+Siskiyou,2015,14
+Siskiyou,2016,15
+Siskiyou,2017,57
+Siskiyou,2018,18
+Siskiyou,2019,17
+Siskiyou,2020,22
+Siskiyou,2021,20
+Siskiyou,2022,21
+Siskiyou,2023,18
+Solano,1952,1
+Solano,1953,2
+Solano,1954,1
+Solano,1955,2
+Solano,1957,3
+Solano,1959,1
+Solano,1961,2
+Solano,1963,1
+Solano,1964,4
+Solano,1968,2
+Solano,1970,1
+Solano,1972,1
+Solano,1973,2
+Solano,1976,2
+Solano,1981,2
+Solano,1983,1
+Solano,1985,2
+Solano,1988,1
+Solano,1992,2
+Solano,1996,1
+Solano,1999,1
+Solano,2000,1
+Solano,2002,1
+Solano,2003,2
+Solano,2004,4
+Solano,2005,2
+Solano,2006,2
+Solano,2008,1
+Solano,2011,1
+Solano,2014,3
+Solano,2015,1
+Solano,2016,1
+Solano,2017,6
+Solano,2018,1
+Solano,2019,3
+Solano,2020,7
+Solano,2021,4
+Sonoma,1939,1
+Sonoma,1941,1
+Sonoma,1943,3
+Sonoma,1944,3
+Sonoma,1945,9
+Sonoma,1946,5
+Sonoma,1948,1
+Sonoma,1949,4
+Sonoma,1950,2
+Sonoma,1951,1
+Sonoma,1952,3
+Sonoma,1953,1
+Sonoma,1954,3
+Sonoma,1955,1
+Sonoma,1957,1
+Sonoma,1959,9
+Sonoma,1960,4
+Sonoma,1961,5
+Sonoma,1962,2
+Sonoma,1963,1
+Sonoma,1964,4
+Sonoma,1965,8
+Sonoma,1966,2
+Sonoma,1968,2
+Sonoma,1970,1
+Sonoma,1972,2
+Sonoma,1973,1
+Sonoma,1976,1
+Sonoma,1978,2
+Sonoma,1980,1
+Sonoma,1982,1
+Sonoma,1986,1
+Sonoma,1988,5
+Sonoma,1991,3
+Sonoma,1993,1
+Sonoma,1994,1
+Sonoma,1996,2
+Sonoma,1999,1
+Sonoma,2001,2
+Sonoma,2002,1
+Sonoma,2003,1
+Sonoma,2004,4
+Sonoma,2006,2
+Sonoma,2007,7
+Sonoma,2008,5
+Sonoma,2009,1
+Sonoma,2011,1
+Sonoma,2012,2
+Sonoma,2013,6
+Sonoma,2015,1
+Sonoma,2016,2
+Sonoma,2017,13
+Sonoma,2018,2
+Sonoma,2019,1
+Sonoma,2020,21
+Sonoma,2021,14
+Sonoma,2022,3
+Stanislaus,1950,1
+Stanislaus,1951,2
+Stanislaus,1952,3
+Stanislaus,1953,2
+Stanislaus,1958,2
+Stanislaus,1959,1
+Stanislaus,1960,1
+Stanislaus,1961,1
+Stanislaus,1962,1
+Stanislaus,1966,1
+Stanislaus,1969,2
+Stanislaus,1970,1
+Stanislaus,1971,1
+Stanislaus,1972,1
+Stanislaus,1974,3
+Stanislaus,1975,1
+Stanislaus,1980,3
+Stanislaus,1982,1
+Stanislaus,1983,2
+Stanislaus,1984,1
+Stanislaus,1985,1
+Stanislaus,1987,2
+Stanislaus,1989,1
+Stanislaus,1992,4
+Stanislaus,1993,1
+Stanislaus,1994,1
+Stanislaus,1995,2
+Stanislaus,1996,1
+Stanislaus,1997,1
+Stanislaus,1998,1
+Stanislaus,1999,4
+Stanislaus,2001,3
+Stanislaus,2002,3
+Stanislaus,2003,11
+Stanislaus,2004,3
+Stanislaus,2005,3
+Stanislaus,2006,8
+Stanislaus,2007,4
+Stanislaus,2008,5
+Stanislaus,2009,4
+Stanislaus,2010,1
+Stanislaus,2011,3
+Stanislaus,2016,4
+Stanislaus,2017,4
+Stanislaus,2018,4
+Stanislaus,2019,9
+Stanislaus,2020,1
+Stanislaus,2021,4
+Stanislaus,2022,3
+Stanislaus,2023,1
+Sutter,1970,1
+Sutter,2007,2
+Sutter,2008,3
+Sutter,2009,1
+Sutter,2011,3
+Sutter,2012,1
+Sutter,2015,1
+Sutter,2016,1
+Sutter,2018,3
+Sutter,2019,1
+Sutter,2021,2
+Tehama,1911,4
+Tehama,1917,9
+Tehama,1918,3
+Tehama,1919,2
+Tehama,1920,1
+Tehama,1921,4
+Tehama,1922,4
+Tehama,1924,6
+Tehama,1926,11
+Tehama,1928,3
+Tehama,1929,3
+Tehama,1930,3
+Tehama,1931,6
+Tehama,1932,4
+Tehama,1934,1
+Tehama,1936,7
+Tehama,1938,2
+Tehama,1939,9
+Tehama,1940,3
+Tehama,1941,8
+Tehama,1942,1
+Tehama,1943,22
+Tehama,1944,6
+Tehama,1945,8
+Tehama,1946,9
+Tehama,1947,5
+Tehama,1948,2
+Tehama,1949,3
+Tehama,1950,4
+Tehama,1951,2
+Tehama,1952,4
+Tehama,1953,1
+Tehama,1954,2
+Tehama,1955,4
+Tehama,1956,2
+Tehama,1957,6
+Tehama,1958,8
+Tehama,1959,3
+Tehama,1961,6
+Tehama,1963,5
+Tehama,1964,6
+Tehama,1966,2
+Tehama,1968,1
+Tehama,1969,2
+Tehama,1971,1
+Tehama,1972,1
+Tehama,1973,1
+Tehama,1974,2
+Tehama,1975,3
+Tehama,1976,6
+Tehama,1977,1
+Tehama,1978,1
+Tehama,1979,2
+Tehama,1980,6
+Tehama,1981,10
+Tehama,1983,2
+Tehama,1984,3
+Tehama,1987,3
+Tehama,1988,1
+Tehama,1989,2
+Tehama,1990,5
+Tehama,1992,1
+Tehama,1994,4
+Tehama,1996,1
+Tehama,1997,1
+Tehama,1998,3
+Tehama,1999,21
+Tehama,2000,4
+Tehama,2001,10
+Tehama,2002,3
+Tehama,2003,5
+Tehama,2004,3
+Tehama,2005,3
+Tehama,2006,2
+Tehama,2007,9
+Tehama,2008,15
+Tehama,2010,2
+Tehama,2012,4
+Tehama,2013,4
+Tehama,2014,1
+Tehama,2015,11
+Tehama,2016,14
+Tehama,2017,4
+Tehama,2018,11
+Tehama,2019,4
+Tehama,2020,9
+Tehama,2021,9
+Tehama,2022,5
+Tehama,2023,1
+Trinity,1911,5
+Trinity,1912,1
+Trinity,1913,4
+Trinity,1914,7
+Trinity,1915,5
+Trinity,1916,2
+Trinity,1917,11
+Trinity,1918,2
+Trinity,1919,3
+Trinity,1920,4
+Trinity,1922,7
+Trinity,1923,7
+Trinity,1924,20
+Trinity,1930,20
+Trinity,1931,14
+Trinity,1932,11
+Trinity,1933,2
+Trinity,1934,3
+Trinity,1935,11
+Trinity,1936,5
+Trinity,1938,11
+Trinity,1939,5
+Trinity,1940,4
+Trinity,1941,6
+Trinity,1942,4
+Trinity,1943,8
+Trinity,1944,8
+Trinity,1945,6
+Trinity,1946,2
+Trinity,1947,2
+Trinity,1948,1
+Trinity,1949,7
+Trinity,1951,8
+Trinity,1952,4
+Trinity,1953,9
+Trinity,1954,2
+Trinity,1955,3
+Trinity,1956,2
+Trinity,1958,2
+Trinity,1959,13
+Trinity,1960,5
+Trinity,1961,7
+Trinity,1962,6
+Trinity,1963,1
+Trinity,1964,10
+Trinity,1965,3
+Trinity,1966,2
+Trinity,1968,10
+Trinity,1969,3
+Trinity,1971,2
+Trinity,1972,1
+Trinity,1973,1
+Trinity,1974,7
+Trinity,1975,4
+Trinity,1976,1
+Trinity,1977,2
+Trinity,1978,1
+Trinity,1979,6
+Trinity,1980,6
+Trinity,1981,5
+Trinity,1982,6
+Trinity,1983,1
+Trinity,1984,3
+Trinity,1985,5
+Trinity,1987,25
+Trinity,1988,5
+Trinity,1989,3
+Trinity,1990,4
+Trinity,1991,5
+Trinity,1992,7
+Trinity,1993,1
+Trinity,1994,4
+Trinity,1995,1
+Trinity,1996,6
+Trinity,1997,2
+Trinity,1999,3
+Trinity,2000,2
+Trinity,2001,2
+Trinity,2002,1
+Trinity,2003,3
+Trinity,2004,7
+Trinity,2005,1
+Trinity,2006,12
+Trinity,2007,3
+Trinity,2008,63
+Trinity,2009,9
+Trinity,2010,1
+Trinity,2011,3
+Trinity,2012,6
+Trinity,2013,4
+Trinity,2014,6
+Trinity,2015,43
+Trinity,2016,2
+Trinity,2017,10
+Trinity,2018,5
+Trinity,2019,11
+Trinity,2020,7
+Trinity,2021,6
+Trinity,2022,3
+Trinity,2023,5
+Tulare,1910,5
+Tulare,1911,3
+Tulare,1912,1
+Tulare,1914,5
+Tulare,1915,3
+Tulare,1916,1
+Tulare,1917,9
+Tulare,1918,3
+Tulare,1919,4
+Tulare,1921,6
+Tulare,1922,5
+Tulare,1923,2
+Tulare,1924,13
+Tulare,1925,5
+Tulare,1926,30
+Tulare,1927,3
+Tulare,1928,10
+Tulare,1929,2
+Tulare,1930,2
+Tulare,1931,8
+Tulare,1932,4
+Tulare,1933,4
+Tulare,1934,9
+Tulare,1935,3
+Tulare,1938,3
+Tulare,1939,7
+Tulare,1940,3
+Tulare,1941,1
+Tulare,1942,1
+Tulare,1944,3
+Tulare,1945,2
+Tulare,1946,3
+Tulare,1947,8
+Tulare,1948,3
+Tulare,1949,12
+Tulare,1950,8
+Tulare,1951,2
+Tulare,1952,7
+Tulare,1953,1
+Tulare,1954,7
+Tulare,1955,2
+Tulare,1956,5
+Tulare,1957,4
+Tulare,1958,8
+Tulare,1959,2
+Tulare,1960,5
+Tulare,1961,8
+Tulare,1962,2
+Tulare,1963,4
+Tulare,1964,3
+Tulare,1966,7
+Tulare,1967,2
+Tulare,1968,4
+Tulare,1969,6
+Tulare,1970,4
+Tulare,1971,4
+Tulare,1972,6
+Tulare,1973,4
+Tulare,1974,11
+Tulare,1975,12
+Tulare,1976,3
+Tulare,1977,6
+Tulare,1978,5
+Tulare,1979,10
+Tulare,1980,11
+Tulare,1981,8
+Tulare,1982,13
+Tulare,1983,6
+Tulare,1984,18
+Tulare,1985,8
+Tulare,1986,5
+Tulare,1987,17
+Tulare,1988,9
+Tulare,1989,7
+Tulare,1990,6
+Tulare,1991,6
+Tulare,1992,10
+Tulare,1993,16
+Tulare,1994,16
+Tulare,1995,9
+Tulare,1996,22
+Tulare,1997,13
+Tulare,1998,3
+Tulare,1999,4
+Tulare,2000,12
+Tulare,2001,4
+Tulare,2002,14
+Tulare,2003,27
+Tulare,2004,9
+Tulare,2005,9
+Tulare,2006,10
+Tulare,2007,8
+Tulare,2008,10
+Tulare,2009,27
+Tulare,2010,12
+Tulare,2011,13
+Tulare,2012,3
+Tulare,2013,7
+Tulare,2014,5
+Tulare,2015,6
+Tulare,2016,10
+Tulare,2017,16
+Tulare,2018,10
+Tulare,2019,8
+Tulare,2020,8
+Tulare,2021,9
+Tulare,2022,5
+Tulare,2023,6
+Tuolumne,1908,3
+Tuolumne,1910,2
+Tuolumne,1911,5
+Tuolumne,1912,4
+Tuolumne,1913,9
+Tuolumne,1914,3
+Tuolumne,1915,4
+Tuolumne,1916,2
+Tuolumne,1917,5
+Tuolumne,1918,2
+Tuolumne,1919,3
+Tuolumne,1920,5
+Tuolumne,1921,2
+Tuolumne,1922,3
+Tuolumne,1923,1
+Tuolumne,1924,3
+Tuolumne,1925,7
+Tuolumne,1926,3
+Tuolumne,1927,2
+Tuolumne,1928,3
+Tuolumne,1929,1
+Tuolumne,1931,1
+Tuolumne,1932,2
+Tuolumne,1933,5
+Tuolumne,1934,10
+Tuolumne,1935,2
+Tuolumne,1936,2
+Tuolumne,1940,2
+Tuolumne,1941,2
+Tuolumne,1944,3
+Tuolumne,1945,3
+Tuolumne,1946,1
+Tuolumne,1947,1
+Tuolumne,1948,4
+Tuolumne,1949,4
+Tuolumne,1950,10
+Tuolumne,1951,5
+Tuolumne,1952,5
+Tuolumne,1953,13
+Tuolumne,1954,3
+Tuolumne,1955,3
+Tuolumne,1956,3
+Tuolumne,1957,6
+Tuolumne,1958,3
+Tuolumne,1959,10
+Tuolumne,1960,9
+Tuolumne,1961,1
+Tuolumne,1962,3
+Tuolumne,1963,3
+Tuolumne,1964,4
+Tuolumne,1965,1
+Tuolumne,1966,3
+Tuolumne,1967,3
+Tuolumne,1968,4
+Tuolumne,1969,2
+Tuolumne,1970,3
+Tuolumne,1971,3
+Tuolumne,1972,3
+Tuolumne,1973,7
+Tuolumne,1974,1
+Tuolumne,1975,1
+Tuolumne,1976,6
+Tuolumne,1977,6
+Tuolumne,1978,4
+Tuolumne,1979,7
+Tuolumne,1980,5
+Tuolumne,1981,3
+Tuolumne,1982,2
+Tuolumne,1983,3
+Tuolumne,1984,5
+Tuolumne,1985,14
+Tuolumne,1986,5
+Tuolumne,1987,14
+Tuolumne,1988,13
+Tuolumne,1989,2
+Tuolumne,1990,14
+Tuolumne,1991,4
+Tuolumne,1992,5
+Tuolumne,1993,1
+Tuolumne,1994,5
+Tuolumne,1995,4
+Tuolumne,1996,16
+Tuolumne,1997,6
+Tuolumne,1998,3
+Tuolumne,1999,10
+Tuolumne,2000,2
+Tuolumne,2001,13
+Tuolumne,2002,11
+Tuolumne,2003,16
+Tuolumne,2004,13
+Tuolumne,2005,9
+Tuolumne,2006,12
+Tuolumne,2007,8
+Tuolumne,2008,8
+Tuolumne,2009,5
+Tuolumne,2010,5
+Tuolumne,2011,9
+Tuolumne,2012,9
+Tuolumne,2013,14
+Tuolumne,2014,25
+Tuolumne,2015,8
+Tuolumne,2016,10
+Tuolumne,2017,22
+Tuolumne,2018,10
+Tuolumne,2019,5
+Tuolumne,2020,6
+Tuolumne,2021,8
+Tuolumne,2022,4
+Tuolumne,2023,3
+Ventura,1898,3
+Ventura,1902,1
+Ventura,1903,1
+Ventura,1908,1
+Ventura,1909,1
+Ventura,1910,1
+Ventura,1911,1
+Ventura,1912,5
+Ventura,1913,3
+Ventura,1914,3
+Ventura,1915,9
+Ventura,1916,2
+Ventura,1917,3
+Ventura,1918,2
+Ventura,1919,2
+Ventura,1920,4
+Ventura,1921,4
+Ventura,1922,6
+Ventura,1923,4
+Ventura,1924,3
+Ventura,1925,2
+Ventura,1926,1
+Ventura,1927,5
+Ventura,1928,6
+Ventura,1929,4
+Ventura,1930,1
+Ventura,1931,3
+Ventura,1932,3
+Ventura,1933,2
+Ventura,1934,1
+Ventura,1935,4
+Ventura,1936,5
+Ventura,1937,4
+Ventura,1938,5
+Ventura,1939,6
+Ventura,1940,5
+Ventura,1941,3
+Ventura,1942,2
+Ventura,1943,6
+Ventura,1944,4
+Ventura,1945,5
+Ventura,1946,4
+Ventura,1947,2
+Ventura,1948,3
+Ventura,1949,4
+Ventura,1950,2
+Ventura,1951,9
+Ventura,1952,2
+Ventura,1953,6
+Ventura,1954,5
+Ventura,1955,3
+Ventura,1956,7
+Ventura,1957,8
+Ventura,1958,5
+Ventura,1959,5
+Ventura,1960,1
+Ventura,1961,1
+Ventura,1962,3
+Ventura,1963,5
+Ventura,1964,2
+Ventura,1965,1
+Ventura,1966,4
+Ventura,1967,8
+Ventura,1968,7
+Ventura,1969,1
+Ventura,1970,5
+Ventura,1971,4
+Ventura,1972,1
+Ventura,1973,4
+Ventura,1974,2
+Ventura,1975,12
+Ventura,1976,5
+Ventura,1978,3
+Ventura,1979,5
+Ventura,1980,4
+Ventura,1981,2
+Ventura,1982,3
+Ventura,1983,3
+Ventura,1984,3
+Ventura,1985,11
+Ventura,1986,1
+Ventura,1987,5
+Ventura,1988,5
+Ventura,1989,3
+Ventura,1990,11
+Ventura,1991,2
+Ventura,1992,8
+Ventura,1993,4
+Ventura,1994,4
+Ventura,1995,2
+Ventura,1996,7
+Ventura,1997,5
+Ventura,1998,3
+Ventura,1999,5
+Ventura,2000,3
+Ventura,2001,6
+Ventura,2002,1
+Ventura,2003,6
+Ventura,2004,2
+Ventura,2005,3
+Ventura,2006,7
+Ventura,2007,12
+Ventura,2008,6
+Ventura,2009,7
+Ventura,2010,3
+Ventura,2011,8
+Ventura,2012,10
+Ventura,2013,10
+Ventura,2014,7
+Ventura,2015,36
+Ventura,2016,15
+Ventura,2017,19
+Ventura,2018,62
+Ventura,2019,8
+Ventura,2020,9
+Ventura,2021,16
+Ventura,2022,5
+Ventura,2023,3
+Yolo,1950,1
+Yolo,1951,1
+Yolo,1952,1
+Yolo,1954,2
+Yolo,1955,3
+Yolo,1956,2
+Yolo,1957,2
+Yolo,1958,1
+Yolo,1959,1
+Yolo,1960,3
+Yolo,1961,2
+Yolo,1967,3
+Yolo,1968,3
+Yolo,1970,3
+Yolo,1972,2
+Yolo,1974,2
+Yolo,1975,2
+Yolo,1976,1
+Yolo,1979,2
+Yolo,1981,1
+Yolo,1983,1
+Yolo,1985,1
+Yolo,1987,1
+Yolo,1988,1
+Yolo,1989,1
+Yolo,1991,1
+Yolo,1992,1
+Yolo,1995,1
+Yolo,1997,1
+Yolo,1998,2
+Yolo,1999,4
+Yolo,2000,1
+Yolo,2002,1
+Yolo,2003,3
+Yolo,2004,1
+Yolo,2005,2
+Yolo,2006,3
+Yolo,2007,2
+Yolo,2008,1
+Yolo,2009,1
+Yolo,2012,2
+Yolo,2014,4
+Yolo,2015,3
+Yolo,2016,3
+Yolo,2017,1
+Yolo,2018,3
+Yolo,2019,1
+Yolo,2020,8
+Yolo,2021,3
+Yuba,1909,3
+Yuba,1910,3
+Yuba,1911,3
+Yuba,1917,1
+Yuba,1919,2
+Yuba,1920,5
+Yuba,1921,3
+Yuba,1924,4
+Yuba,1929,6
+Yuba,1930,3
+Yuba,1931,2
+Yuba,1932,2
+Yuba,1934,5
+Yuba,1935,1
+Yuba,1936,1
+Yuba,1937,1
+Yuba,1940,1
+Yuba,1944,1
+Yuba,1946,2
+Yuba,1950,1
+Yuba,1951,2
+Yuba,1952,1
+Yuba,1953,2
+Yuba,1954,2
+Yuba,1955,3
+Yuba,1957,1
+Yuba,1958,1
+Yuba,1959,2
+Yuba,1960,2
+Yuba,1961,6
+Yuba,1963,1
+Yuba,1964,1
+Yuba,1966,1
+Yuba,1967,2
+Yuba,1968,1
+Yuba,1969,1
+Yuba,1970,3
+Yuba,1973,1
+Yuba,1974,2
+Yuba,1977,1
+Yuba,1978,2
+Yuba,1979,3
+Yuba,1980,3
+Yuba,1983,1
+Yuba,1988,2
+Yuba,1991,2
+Yuba,1992,1
+Yuba,1997,1
+Yuba,1998,2
+Yuba,1999,1
+Yuba,2002,5
+Yuba,2003,1
+Yuba,2004,3
+Yuba,2005,1
+Yuba,2006,1
+Yuba,2007,6
+Yuba,2008,11
+Yuba,2009,4
+Yuba,2010,4
+Yuba,2011,8
+Yuba,2012,10
+Yuba,2013,8
+Yuba,2014,3
+Yuba,2015,5
+Yuba,2016,8
+Yuba,2017,8
+Yuba,2018,3
+Yuba,2019,7
+Yuba,2020,10
+Yuba,2021,15
+Yuba,2022,7
+Yuba,2023,6

@@ -14,8 +14,5 @@ export default {
       base: dev ? '' : '/cali-data-viz2',
     },
     appDir: 'app',
-    prerender: {
-      default: true
-    }
   }
 };

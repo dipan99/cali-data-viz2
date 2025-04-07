@@ -44,13 +44,19 @@
       const yearData = data.filter((d) => d.year === selectedYear);
       const tempYearData = weatherData.filter((d) => d.YEAR === selectedYear);
   
-      const dailyTempMap = new Map();
+      const tempByDay = new Map();
       tempYearData.forEach(d => {
         const avg = (d.MAX_TEMP + d.MIN_TEMP) / 2;
-        if (!isNaN(avg)) dailyTempMap.set(+d.DAY_OF_YEAR, avg);
+        if (!isNaN(avg)) {
+          tempByDay.set(+d.DAY_OF_YEAR, avg);
+        }
       });
   
-      // Draw counties
+      const firesWithTemp = yearData.map(d => {
+        const temp = tempByDay.get(+d.day_of_year || +d.DAY_OF_YEAR);
+        return { ...d, temp };
+      }).filter(d => d.temp >= tempBrushRange[0] && d.temp <= tempBrushRange[1]);
+  
       svgSel.selectAll("path")
         .data(geojson.features)
         .join("path")
@@ -59,23 +65,14 @@
         .attr("stroke", "#aaa")
         .attr("stroke-width", 0.5);
   
-      // Filter fire incidents by temperature on their day of year
-      const filteredFires = yearData.filter(d => {
-        const avg = dailyTempMap.get(+d.DAY_OF_YEAR);
-        return avg >= tempBrushRange[0] && avg <= tempBrushRange[1];
-      });
-  
       svgSel.selectAll("circle")
-        .data(filteredFires)
+        .data(firesWithTemp)
         .join("circle")
         .attr("cx", (d) => projection([d.longitude, d.latitude])?.[0] || -100)
         .attr("cy", (d) => projection([d.longitude, d.latitude])?.[1] || -100)
         .attr("r", (d) => Math.sqrt(d.acres) * 0.02)
         .attr("fill", "blue")
         .attr("opacity", 0.6);
-  
-      const validTemps = Array.from(dailyTempMap.values());
-      const avgTemp = validTemps.length ? d3.mean(validTemps) : null;
   
       svgSel.append("rect")
         .attr("x", width - 240)
@@ -88,13 +85,13 @@
       svgSel.append("text")
         .attr("x", width - 230)
         .attr("y", 30)
-        .text(`Avg Temp: ${avgTemp != null ? avgTemp.toFixed(2) + '°F' : 'N/A'}`)
+        .text(`Year: ${selectedYear}`)
         .attr("font-size", 12);
   
       svgSel.append("text")
         .attr("x", width - 230)
         .attr("y", 45)
-        .text(`Fire Incidents: ${filteredFires.length}`)
+        .text(`Fire Incidents: ${firesWithTemp.length}`)
         .attr("font-size", 12);
     }
   
@@ -140,7 +137,7 @@
     />
   </div>
   
-  <div class="mb-4">
+  <div class="d-flex justify-content-end mb-4">
     <strong>Filter by Daily Avg Temp (°F): {tempBrushRange[0]}°F – {tempBrushRange[1]}°F</strong>
     <svg bind:this={brushSvg}></svg>
   </div>

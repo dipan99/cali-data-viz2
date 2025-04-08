@@ -23,7 +23,7 @@
 
     async function fetchData() {
         const raw = await d3.csv(
-            "/CA_Weather_Fire_Dataset_1984-2025.csv",
+            "./CA_Weather_Fire_Dataset_1984-2025.csv",
             d3.autoType,
         );
         let grouped;

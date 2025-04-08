@@ -16,11 +16,11 @@
     const height = 600;
   
     onMount(async () => {
-      data = await d3.csv("/fire_points.csv", d3.autoType);
+      data = await d3.csv("./fire_points.csv", d3.autoType);
       data = data.filter((d) => d.latitude && d.longitude);
   
-      geojson = await d3.json("/california-counties.geojson");
-      weatherData = await d3.csv("/CA_Weather_Fire_Dataset_1984-2025.csv", d3.autoType);
+      geojson = await d3.json("./california-counties.geojson");
+      weatherData = await d3.csv("./CA_Weather_Fire_Dataset_1984-2025.csv", d3.autoType);
   
       selectedYear = yearExtent[0];
       setupBrush();

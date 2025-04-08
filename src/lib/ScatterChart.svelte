@@ -17,7 +17,7 @@
 
     onMount(async () => {
         const raw = await d3.csv(
-            "/scatter_unemployment_vs_acres.csv",
+            "./scatter_unemployment_vs_acres.csv",
             d3.autoType,
         );
         data = raw;

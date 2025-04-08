@@ -11,7 +11,7 @@
     
     onMount(async () => {
       try {
-        const response = await fetch('/fires_duration_precip.csv');
+        const response = await fetch('./fires_duration_precip.csv');
         const text = await response.text();
         data = d3.csvParse(text, d3.autoType);
         

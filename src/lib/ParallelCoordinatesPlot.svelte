@@ -10,7 +10,7 @@
       // Dynamically import Plotly only on the client
       const Plotly = (await import('plotly.js-dist')).default;
   
-      const raw = await d3.csv("/CA_Weather_Fire_Dataset_1984-2025.csv", d3.autoType);
+      const raw = await d3.csv("./CA_Weather_Fire_Dataset_1984-2025.csv", d3.autoType);
   
       const metrics = [
         "PRECIPITATION",

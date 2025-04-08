@@ -22,7 +22,7 @@
 
     onMount(async () => {
         try {
-            const raw = await fetch("/fire_counts_by_county_and_year.csv");
+            const raw = await fetch("./fire_counts_by_county_and_year.csv");
             const text = await raw.text();
             const parsed = d3.csvParse(text, d3.autoType);
             data = parsed;
@@ -31,7 +31,7 @@
                 .filter((y) => y >= 2000)
                 .sort();
 
-            geojson = await (await fetch("/california-counties.geojson")).json();
+            geojson = await (await fetch("./california-counties.geojson")).json();
             
             init();
             animate();

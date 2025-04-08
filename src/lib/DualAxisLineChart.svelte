@@ -7,7 +7,7 @@
     let data = [];
   
     onMount(async () => {
-      const raw = await d3.csv('/yearly_precip_fire.csv', d3.autoType);
+      const raw = await d3.csv('./yearly_precip_fire.csv', d3.autoType);
       data = raw.filter(d => d.YEAR && d.AvgPrecip != null && d.FireCount != null);
       if (container) drawChart();
     });

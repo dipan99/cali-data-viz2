@@ -76,7 +76,7 @@
     const hexHeight = 2 * hexRadius * 0.75;
   
     onMount(async () => {
-      const raw = await d3.csv("/fire_points.csv", d3.autoType);
+      const raw = await d3.csv("./fire_points.csv", d3.autoType);
       data = raw.filter((d) => d.latitude && d.longitude && d.county);
       selectedYear = yearExtent[0];
     });

@@ -87,12 +87,4 @@
       margin-bottom: 20px;
     }
     
-    .handle {
-      fill: #555;
-    }
-    
-    .selection {
-      fill: steelblue;
-      fill-opacity: 0.3;
-    }
   </style>

@@ -9,8 +9,8 @@
     let yearRange = { min: 2013, max: 2020 };
     let currentYear = yearRange.min;
   
-    const chartMaxWidth = 600;
-    const chartHeight = 400;
+    const chartMaxWidth = 500;
+    const chartHeight = 600;
   
     function progressToYear(progress) {
       const minP = 12, maxP = 100;

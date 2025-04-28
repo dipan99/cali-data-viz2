@@ -6,6 +6,7 @@
   export let currentProgress = 0;
 
   let container;
+  let tooltip;
 
   let data = [];
   let aggData = [];
@@ -61,9 +62,9 @@
       .attr("x", (width - margin.right) / 2)
       .attr("y", margin.top / 2)
       .attr("text-anchor", "middle")
-      .attr("font-size", "24px")
+      .attr("font-size", "14px")
       .attr("font-weight", "bold")
-      .text("Monthly Fire Count with Season-Based Color (1992–2020)");
+      .text("Monthly Fire Count with Season-Based Color ");
 
     g = svg.append("g")
       .attr("transform", `translate(${margin.left},${margin.top})`);
@@ -74,6 +75,18 @@
 
     g.append("g").attr("class", "x-axis").attr("transform", `translate(0, ${innerHeight})`);
     g.append("g").attr("class", "y-axis");
+
+    tooltip = d3.select("body")
+      .append("div")
+      .attr("class", "tooltip")
+      .style("opacity", 0)
+      .style("position", "absolute")
+      .style("pointer-events", "none")
+      .style("background", "#222")
+      .style("color", "#fff")
+      .style("padding", "8px 12px")
+      .style("border-radius", "6px")
+      .style("font-size", "14px");
 
     drawAxes();
   }
@@ -101,23 +114,23 @@
   }
 
   $: if (aggData.length > 0 && currentProgress >= 12) {
-  const totalYears = aggData.length;
-  const progressAfterThreshold = currentProgress - 12;
-  const remainingProgress = 100 - 12;
-  const adjustedIndex = Math.floor((progressAfterThreshold / remainingProgress) * totalYears);
-  currentYearIndex = Math.max(0, adjustedIndex);
-  const year = aggData[Math.min(currentYearIndex, totalYears - 1)].YEAR;
-  currentDate = new Date(year, 11, 31);
+    const totalYears = aggData.length;
+    const progressAfterThreshold = currentProgress - 12;
+    const remainingProgress = 100 - 12;
+    const adjustedIndex = Math.floor((progressAfterThreshold / remainingProgress) * totalYears);
+    currentYearIndex = Math.max(0, adjustedIndex);
+    const year = aggData[Math.min(currentYearIndex, totalYears - 1)].YEAR;
+    currentDate = new Date(year, 11, 31);
 
-  updateChart(currentDate);
-}
-
+    updateChart(currentDate);
+  }
 
   function updateChart(untilDate) {
     const filtered = data.filter(d => d.date <= untilDate);
     g.selectAll(".line-group").remove();
 
     const lineGroup = g.append("g").attr("class", "line-group");
+
     for (let i = 1; i < filtered.length; i++) {
       const d0 = filtered[i - 1], d1 = filtered[i];
       lineGroup.append("path")
@@ -126,7 +139,35 @@
         .attr("stroke-width", 2)
         .attr("d", d3.line()
           .x(d => x(d.date))
-          .y(d => y(d.fire_count))([d0, d1]));
+          .y(d => y(d.fire_count))([d0, d1]))
+        .on("mouseover", function () {
+          d3.select(this).attr("stroke-width", 3);
+
+          const yearData = aggData.find(d => d.YEAR === d0.YEAR);
+
+          const seasonMonths = data
+            .filter(d => d.YEAR === d0.YEAR && d.SEASON === d0.SEASON)
+            .map(d => `${d3.timeFormat("%b")(d.date)}: ${d.fire_count}`)
+            .join("<br>");
+
+          tooltip
+            .html(`
+              <strong>Year:</strong> ${d0.YEAR}<br>
+              <strong>Season:</strong> ${d0.SEASON}<br>
+              <strong>Total Fires:</strong> ${yearData?.[d0.SEASON] ?? 'N/A'}<br><br>
+              ${seasonMonths}
+            `)
+            .style("opacity", 1);
+        })
+        .on("mousemove", function (event) {
+          tooltip
+            .style("left", `${event.pageX + 15}px`)
+            .style("top", `${event.pageY - 30}px`);
+        })
+        .on("mouseout", function () {
+          d3.select(this).attr("stroke-width", 2);
+          tooltip.style("opacity", 0);
+        });
     }
   }
 </script>
@@ -138,5 +179,9 @@
 <style>
   svg {
     font-family: sans-serif;
+  }
+
+  .tooltip {
+    transition: opacity 0.2s ease-in-out;
   }
 </style>

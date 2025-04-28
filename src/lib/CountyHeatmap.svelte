@@ -20,7 +20,8 @@
   const cellWidth = 75;
   const cellHeight = 20;
 
-  $: if (topN && allYears.length && progress >= 12) {
+  // ✅ Updated combined reactive block
+  $: if ((topN || metric) && allYears.length && progress >= 12) {
     const progressAfterThreshold = progress - 12;
     const remainingProgress = 100 - 12;
     const yearsToShow = Math.floor((progressAfterThreshold / remainingProgress) * (initialEndYear - initialStartYear));

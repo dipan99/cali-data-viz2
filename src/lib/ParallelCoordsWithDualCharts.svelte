@@ -18,8 +18,8 @@
     let currentMaxYear = 1984; // Initialize with the minimum year
     let maxDataYear = 2020; // Will be updated after loading data
 
-    const chartMaxWidth = 600;
-    const chartHeight = 300;
+    const chartMaxWidth = 550;
+    const chartHeight = 200;
 
     const chartOptions = [
       { value: "precip", label: "Precipitation vs Fire Count" },

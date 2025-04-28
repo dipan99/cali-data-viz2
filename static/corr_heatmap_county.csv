@@ -1,0 +1,1678 @@
+county,FIRE_YEAR,fire_count
+Alameda,1992,62
+Alameda,1993,76
+Alameda,1994,50
+Alameda,1995,45
+Alameda,1996,59
+Alameda,1997,68
+Alameda,1998,55
+Alameda,1999,38
+Alameda,2000,45
+Alameda,2001,55
+Alameda,2002,48
+Alameda,2003,46
+Alameda,2004,54
+Alameda,2005,161
+Alameda,2006,236
+Alameda,2007,185
+Alameda,2008,160
+Alameda,2009,165
+Alameda,2010,134
+Alameda,2011,125
+Alameda,2012,26
+Alameda,2013,63
+Alameda,2014,42
+Alameda,2015,56
+Alameda,2016,113
+Alameda,2017,88
+Alameda,2018,225
+Alameda,2019,114
+Alameda,2020,188
+Alpine,1992,88
+Alpine,1993,23
+Alpine,1994,40
+Alpine,1995,10
+Alpine,1996,37
+Alpine,1997,33
+Alpine,1998,58
+Alpine,1999,51
+Alpine,2000,126
+Alpine,2001,60
+Alpine,2002,49
+Alpine,2003,70
+Alpine,2004,49
+Alpine,2005,24
+Alpine,2006,52
+Alpine,2007,34
+Alpine,2008,20
+Alpine,2009,19
+Alpine,2010,23
+Alpine,2011,17
+Alpine,2012,22
+Alpine,2013,46
+Alpine,2014,59
+Alpine,2015,20
+Alpine,2016,16
+Alpine,2017,33
+Alpine,2018,23
+Alpine,2019,10
+Alpine,2020,41
+Amador,1992,94
+Amador,1993,63
+Amador,1994,68
+Amador,1995,39
+Amador,1996,66
+Amador,1997,73
+Amador,1998,47
+Amador,1999,109
+Amador,2000,73
+Amador,2001,67
+Amador,2002,74
+Amador,2003,82
+Amador,2004,74
+Amador,2005,54
+Amador,2006,67
+Amador,2007,90
+Amador,2008,58
+Amador,2009,69
+Amador,2010,50
+Amador,2011,48
+Amador,2012,56
+Amador,2013,78
+Amador,2014,71
+Amador,2015,49
+Amador,2016,63
+Amador,2017,65
+Amador,2018,60
+Amador,2019,18
+Amador,2020,24
+Butte,1992,318
+Butte,1993,324
+Butte,1994,281
+Butte,1995,273
+Butte,1996,286
+Butte,1997,264
+Butte,1998,190
+Butte,1999,334
+Butte,2000,242
+Butte,2001,315
+Butte,2002,356
+Butte,2003,252
+Butte,2004,283
+Butte,2005,225
+Butte,2006,259
+Butte,2007,367
+Butte,2008,270
+Butte,2009,281
+Butte,2010,180
+Butte,2011,212
+Butte,2012,185
+Butte,2013,282
+Butte,2014,287
+Butte,2015,263
+Butte,2016,214
+Butte,2017,233
+Butte,2018,224
+Butte,2019,121
+Butte,2020,210
+Calaveras,1992,168
+Calaveras,1993,107
+Calaveras,1994,136
+Calaveras,1995,96
+Calaveras,1996,165
+Calaveras,1997,149
+Calaveras,1998,82
+Calaveras,1999,164
+Calaveras,2000,109
+Calaveras,2001,111
+Calaveras,2002,123
+Calaveras,2003,106
+Calaveras,2004,131
+Calaveras,2005,132
+Calaveras,2006,106
+Calaveras,2007,171
+Calaveras,2008,121
+Calaveras,2009,111
+Calaveras,2010,103
+Calaveras,2011,119
+Calaveras,2012,158
+Calaveras,2013,103
+Calaveras,2014,91
+Calaveras,2015,113
+Calaveras,2016,81
+Calaveras,2017,115
+Calaveras,2018,116
+Calaveras,2019,67
+Calaveras,2020,93
+Colusa,1992,21
+Colusa,1993,12
+Colusa,1994,13
+Colusa,1995,12
+Colusa,1996,15
+Colusa,1997,13
+Colusa,1998,10
+Colusa,1999,17
+Colusa,2000,12
+Colusa,2001,18
+Colusa,2002,28
+Colusa,2003,33
+Colusa,2004,14
+Colusa,2005,13
+Colusa,2006,22
+Colusa,2007,18
+Colusa,2008,16
+Colusa,2009,26
+Colusa,2010,15
+Colusa,2011,26
+Colusa,2012,18
+Colusa,2013,22
+Colusa,2014,6
+Colusa,2015,11
+Colusa,2016,7
+Colusa,2017,11
+Colusa,2018,9
+Colusa,2019,5
+Colusa,2020,9
+Contra Costa,1992,54
+Contra Costa,1993,58
+Contra Costa,1994,41
+Contra Costa,1995,46
+Contra Costa,1996,46
+Contra Costa,1997,37
+Contra Costa,1998,34
+Contra Costa,1999,44
+Contra Costa,2000,27
+Contra Costa,2001,35
+Contra Costa,2002,36
+Contra Costa,2003,35
+Contra Costa,2004,25
+Contra Costa,2005,291
+Contra Costa,2006,344
+Contra Costa,2007,150
+Contra Costa,2008,248
+Contra Costa,2009,181
+Contra Costa,2010,328
+Contra Costa,2011,271
+Contra Costa,2012,54
+Contra Costa,2013,90
+Contra Costa,2014,49
+Contra Costa,2015,61
+Contra Costa,2016,39
+Contra Costa,2017,72
+Contra Costa,2018,304
+Contra Costa,2019,227
+Contra Costa,2020,184
+Del Norte,1992,41
+Del Norte,1993,36
+Del Norte,1994,83
+Del Norte,1995,32
+Del Norte,1996,48
+Del Norte,1997,46
+Del Norte,1998,71
+Del Norte,1999,65
+Del Norte,2000,34
+Del Norte,2001,62
+Del Norte,2002,43
+Del Norte,2003,52
+Del Norte,2004,48
+Del Norte,2005,33
+Del Norte,2006,36
+Del Norte,2007,50
+Del Norte,2008,65
+Del Norte,2009,62
+Del Norte,2010,24
+Del Norte,2011,20
+Del Norte,2012,42
+Del Norte,2013,26
+Del Norte,2014,30
+Del Norte,2015,80
+Del Norte,2016,39
+Del Norte,2017,25
+Del Norte,2018,39
+Del Norte,2019,12
+Del Norte,2020,10
+El Dorado,1992,391
+El Dorado,1993,262
+El Dorado,1994,339
+El Dorado,1995,229
+El Dorado,1996,247
+El Dorado,1997,235
+El Dorado,1998,186
+El Dorado,1999,296
+El Dorado,2000,298
+El Dorado,2001,278
+El Dorado,2002,265
+El Dorado,2003,296
+El Dorado,2004,285
+El Dorado,2005,208
+El Dorado,2006,290
+El Dorado,2007,354
+El Dorado,2008,290
+El Dorado,2009,267
+El Dorado,2010,222
+El Dorado,2011,221
+El Dorado,2012,249
+El Dorado,2013,282
+El Dorado,2014,225
+El Dorado,2015,279
+El Dorado,2016,255
+El Dorado,2017,204
+El Dorado,2018,232
+El Dorado,2019,204
+El Dorado,2020,330
+Fresno,1992,451
+Fresno,1993,436
+Fresno,1994,420
+Fresno,1995,310
+Fresno,1996,384
+Fresno,1997,347
+Fresno,1998,261
+Fresno,1999,278
+Fresno,2000,293
+Fresno,2001,285
+Fresno,2002,266
+Fresno,2003,294
+Fresno,2004,250
+Fresno,2005,281
+Fresno,2006,454
+Fresno,2007,608
+Fresno,2008,491
+Fresno,2009,405
+Fresno,2010,383
+Fresno,2011,468
+Fresno,2012,355
+Fresno,2013,370
+Fresno,2014,225
+Fresno,2015,435
+Fresno,2016,631
+Fresno,2017,817
+Fresno,2018,755
+Fresno,2019,418
+Fresno,2020,513
+Glenn,1992,29
+Glenn,1993,26
+Glenn,1994,13
+Glenn,1995,15
+Glenn,1996,18
+Glenn,1997,17
+Glenn,1998,17
+Glenn,1999,19
+Glenn,2000,7
+Glenn,2001,19
+Glenn,2002,16
+Glenn,2003,38
+Glenn,2004,27
+Glenn,2005,27
+Glenn,2006,26
+Glenn,2007,13
+Glenn,2008,18
+Glenn,2009,17
+Glenn,2010,14
+Glenn,2011,9
+Glenn,2012,15
+Glenn,2013,28
+Glenn,2014,10
+Glenn,2015,11
+Glenn,2016,6
+Glenn,2017,8
+Glenn,2018,6
+Glenn,2019,9
+Glenn,2020,58
+Humboldt,1992,360
+Humboldt,1993,258
+Humboldt,1994,294
+Humboldt,1995,384
+Humboldt,1996,232
+Humboldt,1997,275
+Humboldt,1998,289
+Humboldt,1999,292
+Humboldt,2000,339
+Humboldt,2001,399
+Humboldt,2002,371
+Humboldt,2003,348
+Humboldt,2004,315
+Humboldt,2005,260
+Humboldt,2006,330
+Humboldt,2007,379
+Humboldt,2008,348
+Humboldt,2009,347
+Humboldt,2010,196
+Humboldt,2011,208
+Humboldt,2012,248
+Humboldt,2013,395
+Humboldt,2014,289
+Humboldt,2015,483
+Humboldt,2016,303
+Humboldt,2017,214
+Humboldt,2018,233
+Humboldt,2019,149
+Humboldt,2020,188
+Imperial,1992,21
+Imperial,1993,17
+Imperial,1994,51
+Imperial,1995,29
+Imperial,1996,53
+Imperial,1997,46
+Imperial,1998,59
+Imperial,1999,48
+Imperial,2000,26
+Imperial,2001,24
+Imperial,2002,21
+Imperial,2003,19
+Imperial,2004,31
+Imperial,2005,41
+Imperial,2006,36
+Imperial,2007,10
+Imperial,2008,26
+Imperial,2009,41
+Imperial,2010,26
+Imperial,2011,40
+Imperial,2012,24
+Imperial,2013,38
+Imperial,2014,21
+Imperial,2015,10
+Imperial,2016,5
+Imperial,2017,7
+Imperial,2018,9
+Imperial,2019,10
+Imperial,2020,15
+Inyo,1992,70
+Inyo,1993,50
+Inyo,1994,52
+Inyo,1995,56
+Inyo,1996,42
+Inyo,1997,39
+Inyo,1998,50
+Inyo,1999,91
+Inyo,2000,63
+Inyo,2001,36
+Inyo,2002,43
+Inyo,2003,54
+Inyo,2004,38
+Inyo,2005,69
+Inyo,2006,43
+Inyo,2007,52
+Inyo,2008,33
+Inyo,2009,35
+Inyo,2010,30
+Inyo,2011,29
+Inyo,2012,33
+Inyo,2013,46
+Inyo,2014,39
+Inyo,2015,20
+Inyo,2016,28
+Inyo,2017,37
+Inyo,2018,36
+Inyo,2019,14
+Inyo,2020,22
+Kern,1992,82
+Kern,1993,129
+Kern,1994,80
+Kern,1995,124
+Kern,1996,110
+Kern,1997,88
+Kern,1998,280
+Kern,1999,254
+Kern,2000,170
+Kern,2001,109
+Kern,2002,75
+Kern,2003,117
+Kern,2004,100
+Kern,2005,530
+Kern,2006,635
+Kern,2007,275
+Kern,2008,173
+Kern,2009,319
+Kern,2010,110
+Kern,2011,212
+Kern,2012,299
+Kern,2013,274
+Kern,2014,68
+Kern,2015,68
+Kern,2016,268
+Kern,2017,283
+Kern,2018,260
+Kern,2019,277
+Kern,2020,320
+Kings,1992,7
+Kings,1993,7
+Kings,1994,9
+Kings,1995,10
+Kings,1996,13
+Kings,1997,5
+Kings,1998,6
+Kings,1999,3
+Kings,2000,4
+Kings,2001,1
+Kings,2002,2
+Kings,2003,1
+Kings,2004,2
+Kings,2005,32
+Kings,2006,47
+Kings,2007,9
+Kings,2008,12
+Kings,2009,20
+Kings,2010,22
+Kings,2011,42
+Kings,2012,8
+Kings,2013,46
+Kings,2014,16
+Kings,2015,9
+Kings,2016,46
+Kings,2017,31
+Kings,2018,5
+Kings,2019,2
+Kings,2020,1
+Lake,1992,139
+Lake,1993,83
+Lake,1994,73
+Lake,1995,99
+Lake,1996,72
+Lake,1997,78
+Lake,1998,94
+Lake,1999,82
+Lake,2000,68
+Lake,2001,81
+Lake,2002,91
+Lake,2003,108
+Lake,2004,67
+Lake,2005,84
+Lake,2006,74
+Lake,2007,121
+Lake,2008,73
+Lake,2009,69
+Lake,2010,68
+Lake,2011,65
+Lake,2012,81
+Lake,2013,100
+Lake,2014,69
+Lake,2015,94
+Lake,2016,69
+Lake,2017,66
+Lake,2018,62
+Lake,2019,59
+Lake,2020,182
+Lassen,1992,334
+Lassen,1993,85
+Lassen,1994,167
+Lassen,1995,86
+Lassen,1996,230
+Lassen,1997,189
+Lassen,1998,115
+Lassen,1999,217
+Lassen,2000,89
+Lassen,2001,183
+Lassen,2002,104
+Lassen,2003,212
+Lassen,2004,185
+Lassen,2005,68
+Lassen,2006,168
+Lassen,2007,200
+Lassen,2008,116
+Lassen,2009,183
+Lassen,2010,112
+Lassen,2011,94
+Lassen,2012,72
+Lassen,2013,127
+Lassen,2014,110
+Lassen,2015,136
+Lassen,2016,52
+Lassen,2017,164
+Lassen,2018,85
+Lassen,2019,101
+Lassen,2020,177
+Los Angeles,1992,162
+Los Angeles,1993,172
+Los Angeles,1994,160
+Los Angeles,1995,195
+Los Angeles,1996,259
+Los Angeles,1997,252
+Los Angeles,1998,210
+Los Angeles,1999,304
+Los Angeles,2000,204
+Los Angeles,2001,215
+Los Angeles,2002,252
+Los Angeles,2003,235
+Los Angeles,2004,204
+Los Angeles,2005,1272
+Los Angeles,2006,1435
+Los Angeles,2007,1152
+Los Angeles,2008,734
+Los Angeles,2009,828
+Los Angeles,2010,897
+Los Angeles,2011,901
+Los Angeles,2012,422
+Los Angeles,2013,277
+Los Angeles,2014,188
+Los Angeles,2015,169
+Los Angeles,2016,338
+Los Angeles,2017,406
+Los Angeles,2018,287
+Los Angeles,2019,370
+Los Angeles,2020,479
+Madera,1992,441
+Madera,1993,352
+Madera,1994,320
+Madera,1995,184
+Madera,1996,298
+Madera,1997,248
+Madera,1998,208
+Madera,1999,260
+Madera,2000,230
+Madera,2001,230
+Madera,2002,256
+Madera,2003,349
+Madera,2004,336
+Madera,2005,187
+Madera,2006,251
+Madera,2007,358
+Madera,2008,306
+Madera,2009,239
+Madera,2010,217
+Madera,2011,259
+Madera,2012,242
+Madera,2013,294
+Madera,2014,200
+Madera,2015,212
+Madera,2016,257
+Madera,2017,355
+Madera,2018,323
+Madera,2019,178
+Madera,2020,184
+Marin,1992,14
+Marin,1993,8
+Marin,1994,8
+Marin,1995,6
+Marin,1996,12
+Marin,1997,6
+Marin,1998,16
+Marin,1999,8
+Marin,2000,10
+Marin,2001,7
+Marin,2002,11
+Marin,2003,2
+Marin,2004,17
+Marin,2005,20
+Marin,2006,32
+Marin,2007,39
+Marin,2008,40
+Marin,2009,18
+Marin,2010,28
+Marin,2011,19
+Marin,2012,19
+Marin,2013,52
+Marin,2014,33
+Marin,2015,11
+Marin,2016,11
+Marin,2017,21
+Marin,2018,9
+Marin,2019,11
+Marin,2020,21
+Mariposa,1992,127
+Mariposa,1993,102
+Mariposa,1994,88
+Mariposa,1995,87
+Mariposa,1996,112
+Mariposa,1997,78
+Mariposa,1998,68
+Mariposa,1999,112
+Mariposa,2000,108
+Mariposa,2001,106
+Mariposa,2002,88
+Mariposa,2003,118
+Mariposa,2004,95
+Mariposa,2005,96
+Mariposa,2006,78
+Mariposa,2007,138
+Mariposa,2008,93
+Mariposa,2009,76
+Mariposa,2010,69
+Mariposa,2011,77
+Mariposa,2012,87
+Mariposa,2013,73
+Mariposa,2014,80
+Mariposa,2015,101
+Mariposa,2016,89
+Mariposa,2017,108
+Mariposa,2018,82
+Mariposa,2019,61
+Mariposa,2020,111
+Mendocino,1992,210
+Mendocino,1993,138
+Mendocino,1994,175
+Mendocino,1995,205
+Mendocino,1996,172
+Mendocino,1997,149
+Mendocino,1998,139
+Mendocino,1999,163
+Mendocino,2000,129
+Mendocino,2001,181
+Mendocino,2002,140
+Mendocino,2003,223
+Mendocino,2004,143
+Mendocino,2005,137
+Mendocino,2006,140
+Mendocino,2007,185
+Mendocino,2008,270
+Mendocino,2009,148
+Mendocino,2010,110
+Mendocino,2011,166
+Mendocino,2012,132
+Mendocino,2013,188
+Mendocino,2014,160
+Mendocino,2015,167
+Mendocino,2016,114
+Mendocino,2017,134
+Mendocino,2018,143
+Mendocino,2019,66
+Mendocino,2020,143
+Merced,1992,537
+Merced,1993,331
+Merced,1994,301
+Merced,1995,210
+Merced,1996,257
+Merced,1997,322
+Merced,1998,205
+Merced,1999,328
+Merced,2000,311
+Merced,2001,403
+Merced,2002,365
+Merced,2003,335
+Merced,2004,403
+Merced,2005,360
+Merced,2006,308
+Merced,2007,465
+Merced,2008,465
+Merced,2009,289
+Merced,2010,265
+Merced,2011,277
+Merced,2012,220
+Merced,2013,314
+Merced,2014,197
+Merced,2015,273
+Merced,2016,415
+Merced,2017,455
+Merced,2018,407
+Merced,2019,234
+Merced,2020,414
+Modoc,1992,219
+Modoc,1993,113
+Modoc,1994,169
+Modoc,1995,86
+Modoc,1996,153
+Modoc,1997,120
+Modoc,1998,96
+Modoc,1999,139
+Modoc,2000,60
+Modoc,2001,266
+Modoc,2002,69
+Modoc,2003,152
+Modoc,2004,106
+Modoc,2005,40
+Modoc,2006,191
+Modoc,2007,125
+Modoc,2008,129
+Modoc,2009,80
+Modoc,2010,103
+Modoc,2011,74
+Modoc,2012,66
+Modoc,2013,132
+Modoc,2014,121
+Modoc,2015,89
+Modoc,2016,39
+Modoc,2017,233
+Modoc,2018,91
+Modoc,2019,65
+Modoc,2020,40
+Mono,1992,122
+Mono,1993,79
+Mono,1994,79
+Mono,1995,42
+Mono,1996,99
+Mono,1997,108
+Mono,1998,40
+Mono,1999,80
+Mono,2000,95
+Mono,2001,96
+Mono,2002,90
+Mono,2003,83
+Mono,2004,65
+Mono,2005,76
+Mono,2006,73
+Mono,2007,49
+Mono,2008,39
+Mono,2009,72
+Mono,2010,39
+Mono,2011,36
+Mono,2012,65
+Mono,2013,66
+Mono,2014,75
+Mono,2015,50
+Mono,2016,40
+Mono,2017,46
+Mono,2018,67
+Mono,2019,38
+Mono,2020,61
+Monterey,1992,154
+Monterey,1993,159
+Monterey,1994,122
+Monterey,1995,118
+Monterey,1996,138
+Monterey,1997,142
+Monterey,1998,85
+Monterey,1999,118
+Monterey,2000,104
+Monterey,2001,87
+Monterey,2002,113
+Monterey,2003,97
+Monterey,2004,97
+Monterey,2005,145
+Monterey,2006,128
+Monterey,2007,185
+Monterey,2008,109
+Monterey,2009,91
+Monterey,2010,97
+Monterey,2011,106
+Monterey,2012,108
+Monterey,2013,110
+Monterey,2014,75
+Monterey,2015,108
+Monterey,2016,112
+Monterey,2017,149
+Monterey,2018,153
+Monterey,2019,121
+Monterey,2020,161
+Napa,1992,73
+Napa,1993,65
+Napa,1994,58
+Napa,1995,41
+Napa,1996,43
+Napa,1997,64
+Napa,1998,35
+Napa,1999,65
+Napa,2000,61
+Napa,2001,80
+Napa,2002,60
+Napa,2003,67
+Napa,2004,63
+Napa,2005,58
+Napa,2006,60
+Napa,2007,119
+Napa,2008,90
+Napa,2009,71
+Napa,2010,73
+Napa,2011,55
+Napa,2012,49
+Napa,2013,78
+Napa,2014,69
+Napa,2015,75
+Napa,2016,75
+Napa,2017,88
+Napa,2018,84
+Napa,2019,30
+Napa,2020,73
+Nevada,1992,178
+Nevada,1993,127
+Nevada,1994,170
+Nevada,1995,98
+Nevada,1996,107
+Nevada,1997,110
+Nevada,1998,76
+Nevada,1999,142
+Nevada,2000,114
+Nevada,2001,123
+Nevada,2002,129
+Nevada,2003,118
+Nevada,2004,145
+Nevada,2005,101
+Nevada,2006,113
+Nevada,2007,172
+Nevada,2008,181
+Nevada,2009,141
+Nevada,2010,102
+Nevada,2011,92
+Nevada,2012,134
+Nevada,2013,158
+Nevada,2014,103
+Nevada,2015,158
+Nevada,2016,156
+Nevada,2017,146
+Nevada,2018,150
+Nevada,2019,101
+Nevada,2020,228
+Orange,1992,5
+Orange,1993,7
+Orange,1994,11
+Orange,1995,9
+Orange,1996,12
+Orange,1997,9
+Orange,1998,12
+Orange,1999,16
+Orange,2000,10
+Orange,2001,7
+Orange,2002,8
+Orange,2003,6
+Orange,2004,18
+Orange,2005,178
+Orange,2006,158
+Orange,2007,132
+Orange,2008,87
+Orange,2009,116
+Orange,2010,91
+Orange,2011,88
+Orange,2012,64
+Orange,2013,81
+Orange,2014,77
+Orange,2015,56
+Orange,2016,97
+Orange,2017,88
+Orange,2018,120
+Orange,2019,78
+Orange,2020,71
+Placer,1992,278
+Placer,1993,177
+Placer,1994,192
+Placer,1995,161
+Placer,1996,203
+Placer,1997,176
+Placer,1998,112
+Placer,1999,181
+Placer,2000,142
+Placer,2001,181
+Placer,2002,165
+Placer,2003,189
+Placer,2004,174
+Placer,2005,191
+Placer,2006,232
+Placer,2007,405
+Placer,2008,284
+Placer,2009,238
+Placer,2010,274
+Placer,2011,199
+Placer,2012,247
+Placer,2013,276
+Placer,2014,247
+Placer,2015,226
+Placer,2016,276
+Placer,2017,263
+Placer,2018,313
+Placer,2019,132
+Placer,2020,208
+Plumas,1992,281
+Plumas,1993,136
+Plumas,1994,174
+Plumas,1995,74
+Plumas,1996,245
+Plumas,1997,134
+Plumas,1998,94
+Plumas,1999,161
+Plumas,2000,81
+Plumas,2001,169
+Plumas,2002,116
+Plumas,2003,185
+Plumas,2004,201
+Plumas,2005,82
+Plumas,2006,152
+Plumas,2007,114
+Plumas,2008,114
+Plumas,2009,115
+Plumas,2010,75
+Plumas,2011,65
+Plumas,2012,94
+Plumas,2013,131
+Plumas,2014,128
+Plumas,2015,182
+Plumas,2016,56
+Plumas,2017,158
+Plumas,2018,70
+Plumas,2019,66
+Plumas,2020,122
+Riverside,1992,970
+Riverside,1993,1010
+Riverside,1994,810
+Riverside,1995,878
+Riverside,1996,913
+Riverside,1997,756
+Riverside,1998,914
+Riverside,1999,789
+Riverside,2000,666
+Riverside,2001,676
+Riverside,2002,621
+Riverside,2003,554
+Riverside,2004,580
+Riverside,2005,837
+Riverside,2006,923
+Riverside,2007,1671
+Riverside,2008,775
+Riverside,2009,761
+Riverside,2010,772
+Riverside,2011,967
+Riverside,2012,860
+Riverside,2013,753
+Riverside,2014,602
+Riverside,2015,608
+Riverside,2016,786
+Riverside,2017,1147
+Riverside,2018,1126
+Riverside,2019,727
+Riverside,2020,1447
+Sacramento,1992,24
+Sacramento,1993,19
+Sacramento,1994,25
+Sacramento,1995,18
+Sacramento,1996,8
+Sacramento,1997,13
+Sacramento,1998,11
+Sacramento,1999,25
+Sacramento,2000,24
+Sacramento,2001,24
+Sacramento,2002,34
+Sacramento,2003,27
+Sacramento,2004,33
+Sacramento,2005,168
+Sacramento,2006,39
+Sacramento,2007,103
+Sacramento,2008,139
+Sacramento,2009,118
+Sacramento,2010,205
+Sacramento,2011,150
+Sacramento,2012,32
+Sacramento,2013,140
+Sacramento,2014,85
+Sacramento,2015,39
+Sacramento,2016,104
+Sacramento,2017,102
+Sacramento,2018,140
+Sacramento,2019,103
+Sacramento,2020,96
+San Benito,1992,71
+San Benito,1993,34
+San Benito,1994,39
+San Benito,1995,47
+San Benito,1996,60
+San Benito,1997,46
+San Benito,1998,55
+San Benito,1999,36
+San Benito,2000,38
+San Benito,2001,56
+San Benito,2002,49
+San Benito,2003,63
+San Benito,2004,73
+San Benito,2005,43
+San Benito,2006,49
+San Benito,2007,56
+San Benito,2008,46
+San Benito,2009,35
+San Benito,2010,33
+San Benito,2011,39
+San Benito,2012,43
+San Benito,2013,25
+San Benito,2014,10
+San Benito,2015,20
+San Benito,2016,27
+San Benito,2017,26
+San Benito,2018,29
+San Benito,2019,9
+San Benito,2020,13
+San Bernardino,1992,581
+San Bernardino,1993,566
+San Bernardino,1994,455
+San Bernardino,1995,494
+San Bernardino,1996,551
+San Bernardino,1997,362
+San Bernardino,1998,427
+San Bernardino,1999,353
+San Bernardino,2000,340
+San Bernardino,2001,291
+San Bernardino,2002,231
+San Bernardino,2003,300
+San Bernardino,2004,184
+San Bernardino,2005,397
+San Bernardino,2006,696
+San Bernardino,2007,538
+San Bernardino,2008,518
+San Bernardino,2009,695
+San Bernardino,2010,373
+San Bernardino,2011,431
+San Bernardino,2012,355
+San Bernardino,2013,296
+San Bernardino,2014,256
+San Bernardino,2015,246
+San Bernardino,2016,225
+San Bernardino,2017,294
+San Bernardino,2018,539
+San Bernardino,2019,501
+San Bernardino,2020,853
+San Diego,1992,419
+San Diego,1993,501
+San Diego,1994,442
+San Diego,1995,546
+San Diego,1996,993
+San Diego,1997,705
+San Diego,1998,393
+San Diego,1999,496
+San Diego,2000,305
+San Diego,2001,408
+San Diego,2002,402
+San Diego,2003,282
+San Diego,2004,251
+San Diego,2005,698
+San Diego,2006,539
+San Diego,2007,561
+San Diego,2008,435
+San Diego,2009,460
+San Diego,2010,385
+San Diego,2011,446
+San Diego,2012,265
+San Diego,2013,292
+San Diego,2014,265
+San Diego,2015,214
+San Diego,2016,283
+San Diego,2017,373
+San Diego,2018,309
+San Diego,2019,154
+San Diego,2020,406
+San Francisco,1992,1
+San Francisco,1993,2
+San Francisco,1994,7
+San Francisco,1995,2
+San Francisco,1996,2
+San Francisco,1997,5
+San Francisco,1998,3
+San Francisco,1999,7
+San Francisco,2000,2
+San Francisco,2001,3
+San Francisco,2003,2
+San Francisco,2004,4
+San Francisco,2005,25
+San Francisco,2006,26
+San Francisco,2007,16
+San Francisco,2008,25
+San Francisco,2009,19
+San Francisco,2010,14
+San Francisco,2011,8
+San Francisco,2012,1
+San Francisco,2013,5
+San Francisco,2014,4
+San Francisco,2015,9
+San Francisco,2016,12
+San Francisco,2017,25
+San Francisco,2018,34
+San Francisco,2019,29
+San Francisco,2020,9
+San Joaquin,1992,31
+San Joaquin,1993,26
+San Joaquin,1994,26
+San Joaquin,1995,21
+San Joaquin,1996,29
+San Joaquin,1997,24
+San Joaquin,1998,10
+San Joaquin,1999,22
+San Joaquin,2000,20
+San Joaquin,2001,13
+San Joaquin,2002,27
+San Joaquin,2003,28
+San Joaquin,2004,27
+San Joaquin,2005,62
+San Joaquin,2006,106
+San Joaquin,2007,306
+San Joaquin,2008,234
+San Joaquin,2009,203
+San Joaquin,2010,187
+San Joaquin,2011,69
+San Joaquin,2012,20
+San Joaquin,2013,167
+San Joaquin,2014,28
+San Joaquin,2015,34
+San Joaquin,2016,147
+San Joaquin,2017,97
+San Joaquin,2018,181
+San Joaquin,2019,138
+San Joaquin,2020,32
+San Luis Obispo,1992,177
+San Luis Obispo,1993,163
+San Luis Obispo,1994,164
+San Luis Obispo,1995,155
+San Luis Obispo,1996,182
+San Luis Obispo,1997,191
+San Luis Obispo,1998,162
+San Luis Obispo,1999,147
+San Luis Obispo,2000,140
+San Luis Obispo,2001,118
+San Luis Obispo,2002,144
+San Luis Obispo,2003,159
+San Luis Obispo,2004,143
+San Luis Obispo,2005,177
+San Luis Obispo,2006,169
+San Luis Obispo,2007,234
+San Luis Obispo,2008,122
+San Luis Obispo,2009,120
+San Luis Obispo,2010,111
+San Luis Obispo,2011,130
+San Luis Obispo,2012,133
+San Luis Obispo,2013,144
+San Luis Obispo,2014,97
+San Luis Obispo,2015,140
+San Luis Obispo,2016,183
+San Luis Obispo,2017,212
+San Luis Obispo,2018,165
+San Luis Obispo,2019,130
+San Luis Obispo,2020,223
+San Mateo,1992,24
+San Mateo,1993,29
+San Mateo,1994,20
+San Mateo,1995,18
+San Mateo,1996,23
+San Mateo,1997,15
+San Mateo,1998,14
+San Mateo,1999,31
+San Mateo,2000,17
+San Mateo,2001,22
+San Mateo,2002,20
+San Mateo,2003,6
+San Mateo,2004,11
+San Mateo,2005,51
+San Mateo,2006,73
+San Mateo,2007,71
+San Mateo,2008,88
+San Mateo,2009,73
+San Mateo,2010,62
+San Mateo,2011,44
+San Mateo,2012,38
+San Mateo,2013,59
+San Mateo,2014,30
+San Mateo,2015,41
+San Mateo,2016,49
+San Mateo,2017,54
+San Mateo,2018,42
+San Mateo,2019,40
+San Mateo,2020,114
+Santa Barbara,1992,23
+Santa Barbara,1993,14
+Santa Barbara,1994,22
+Santa Barbara,1995,11
+Santa Barbara,1996,15
+Santa Barbara,1997,19
+Santa Barbara,1998,13
+Santa Barbara,1999,26
+Santa Barbara,2000,24
+Santa Barbara,2001,12
+Santa Barbara,2002,14
+Santa Barbara,2003,13
+Santa Barbara,2004,25
+Santa Barbara,2005,59
+Santa Barbara,2006,67
+Santa Barbara,2007,73
+Santa Barbara,2008,59
+Santa Barbara,2009,58
+Santa Barbara,2010,45
+Santa Barbara,2011,47
+Santa Barbara,2012,42
+Santa Barbara,2013,46
+Santa Barbara,2014,32
+Santa Barbara,2015,48
+Santa Barbara,2016,61
+Santa Barbara,2017,84
+Santa Barbara,2018,57
+Santa Barbara,2019,47
+Santa Barbara,2020,90
+Santa Clara,1992,77
+Santa Clara,1993,92
+Santa Clara,1994,87
+Santa Clara,1995,55
+Santa Clara,1996,64
+Santa Clara,1997,72
+Santa Clara,1998,42
+Santa Clara,1999,72
+Santa Clara,2000,56
+Santa Clara,2001,118
+Santa Clara,2002,70
+Santa Clara,2003,73
+Santa Clara,2004,61
+Santa Clara,2005,66
+Santa Clara,2006,73
+Santa Clara,2007,135
+Santa Clara,2008,155
+Santa Clara,2009,118
+Santa Clara,2010,131
+Santa Clara,2011,103
+Santa Clara,2012,58
+Santa Clara,2013,90
+Santa Clara,2014,47
+Santa Clara,2015,89
+Santa Clara,2016,162
+Santa Clara,2017,151
+Santa Clara,2018,158
+Santa Clara,2019,122
+Santa Clara,2020,208
+Santa Cruz,1992,71
+Santa Cruz,1993,67
+Santa Cruz,1994,60
+Santa Cruz,1995,66
+Santa Cruz,1996,85
+Santa Cruz,1997,87
+Santa Cruz,1998,27
+Santa Cruz,1999,59
+Santa Cruz,2000,59
+Santa Cruz,2001,101
+Santa Cruz,2002,54
+Santa Cruz,2003,40
+Santa Cruz,2004,46
+Santa Cruz,2005,97
+Santa Cruz,2006,106
+Santa Cruz,2007,155
+Santa Cruz,2008,135
+Santa Cruz,2009,94
+Santa Cruz,2010,86
+Santa Cruz,2011,85
+Santa Cruz,2012,71
+Santa Cruz,2013,128
+Santa Cruz,2014,110
+Santa Cruz,2015,74
+Santa Cruz,2016,49
+Santa Cruz,2017,67
+Santa Cruz,2018,76
+Santa Cruz,2019,14
+Santa Cruz,2020,49
+Shasta,1992,392
+Shasta,1993,294
+Shasta,1994,386
+Shasta,1995,256
+Shasta,1996,325
+Shasta,1997,248
+Shasta,1998,261
+Shasta,1999,486
+Shasta,2000,205
+Shasta,2001,289
+Shasta,2002,246
+Shasta,2003,265
+Shasta,2004,282
+Shasta,2005,251
+Shasta,2006,347
+Shasta,2007,396
+Shasta,2008,354
+Shasta,2009,279
+Shasta,2010,198
+Shasta,2011,242
+Shasta,2012,244
+Shasta,2013,321
+Shasta,2014,230
+Shasta,2015,250
+Shasta,2016,156
+Shasta,2017,186
+Shasta,2018,202
+Shasta,2019,137
+Shasta,2020,288
+Sierra,1992,99
+Sierra,1993,33
+Sierra,1994,40
+Sierra,1995,17
+Sierra,1996,54
+Sierra,1997,33
+Sierra,1998,32
+Sierra,1999,48
+Sierra,2000,21
+Sierra,2001,52
+Sierra,2002,25
+Sierra,2003,70
+Sierra,2004,63
+Sierra,2005,31
+Sierra,2006,34
+Sierra,2007,49
+Sierra,2008,24
+Sierra,2009,32
+Sierra,2010,28
+Sierra,2011,36
+Sierra,2012,36
+Sierra,2013,34
+Sierra,2014,33
+Sierra,2015,46
+Sierra,2016,21
+Sierra,2017,40
+Sierra,2018,17
+Sierra,2019,23
+Sierra,2020,34
+Siskiyou,1992,698
+Siskiyou,1993,200
+Siskiyou,1994,416
+Siskiyou,1995,308
+Siskiyou,1996,248
+Siskiyou,1997,250
+Siskiyou,1998,159
+Siskiyou,1999,342
+Siskiyou,2000,225
+Siskiyou,2001,417
+Siskiyou,2002,207
+Siskiyou,2003,299
+Siskiyou,2004,264
+Siskiyou,2005,164
+Siskiyou,2006,301
+Siskiyou,2007,284
+Siskiyou,2008,254
+Siskiyou,2009,287
+Siskiyou,2010,130
+Siskiyou,2011,119
+Siskiyou,2012,160
+Siskiyou,2013,319
+Siskiyou,2014,298
+Siskiyou,2015,321
+Siskiyou,2016,192
+Siskiyou,2017,348
+Siskiyou,2018,175
+Siskiyou,2019,152
+Siskiyou,2020,174
+Solano,1992,25
+Solano,1993,24
+Solano,1994,36
+Solano,1995,12
+Solano,1996,25
+Solano,1997,24
+Solano,1998,10
+Solano,1999,16
+Solano,2000,28
+Solano,2001,16
+Solano,2002,18
+Solano,2003,28
+Solano,2004,20
+Solano,2005,85
+Solano,2006,94
+Solano,2007,106
+Solano,2008,74
+Solano,2009,79
+Solano,2010,24
+Solano,2011,20
+Solano,2012,23
+Solano,2013,48
+Solano,2014,12
+Solano,2015,52
+Solano,2016,94
+Solano,2017,78
+Solano,2018,80
+Solano,2019,50
+Solano,2020,129
+Sonoma,1992,161
+Sonoma,1993,120
+Sonoma,1994,131
+Sonoma,1995,138
+Sonoma,1996,107
+Sonoma,1997,112
+Sonoma,1998,72
+Sonoma,1999,133
+Sonoma,2000,129
+Sonoma,2001,129
+Sonoma,2002,131
+Sonoma,2003,108
+Sonoma,2004,118
+Sonoma,2005,148
+Sonoma,2006,184
+Sonoma,2007,267
+Sonoma,2008,263
+Sonoma,2009,196
+Sonoma,2010,145
+Sonoma,2011,95
+Sonoma,2012,133
+Sonoma,2013,254
+Sonoma,2014,135
+Sonoma,2015,156
+Sonoma,2016,132
+Sonoma,2017,130
+Sonoma,2018,118
+Sonoma,2019,35
+Sonoma,2020,118
+Stanislaus,1992,50
+Stanislaus,1993,43
+Stanislaus,1994,51
+Stanislaus,1995,39
+Stanislaus,1996,42
+Stanislaus,1997,27
+Stanislaus,1998,27
+Stanislaus,1999,24
+Stanislaus,2000,33
+Stanislaus,2001,32
+Stanislaus,2002,48
+Stanislaus,2003,46
+Stanislaus,2004,41
+Stanislaus,2005,214
+Stanislaus,2006,188
+Stanislaus,2007,222
+Stanislaus,2008,226
+Stanislaus,2009,170
+Stanislaus,2010,192
+Stanislaus,2011,108
+Stanislaus,2012,47
+Stanislaus,2013,74
+Stanislaus,2014,60
+Stanislaus,2015,63
+Stanislaus,2016,175
+Stanislaus,2017,109
+Stanislaus,2018,240
+Stanislaus,2019,136
+Stanislaus,2020,229
+Sutter,1992,2
+Sutter,1994,1
+Sutter,1995,1
+Sutter,1996,6
+Sutter,1997,1
+Sutter,2000,1
+Sutter,2001,1
+Sutter,2003,8
+Sutter,2004,11
+Sutter,2005,54
+Sutter,2006,48
+Sutter,2007,62
+Sutter,2008,58
+Sutter,2009,52
+Sutter,2010,36
+Sutter,2011,31
+Sutter,2012,1
+Sutter,2013,29
+Sutter,2014,17
+Sutter,2015,1
+Sutter,2016,45
+Sutter,2017,55
+Sutter,2018,89
+Sutter,2019,11
+Sutter,2020,23
+Tehama,1992,225
+Tehama,1993,191
+Tehama,1994,265
+Tehama,1995,216
+Tehama,1996,239
+Tehama,1997,175
+Tehama,1998,167
+Tehama,1999,286
+Tehama,2000,136
+Tehama,2001,209
+Tehama,2002,149
+Tehama,2003,210
+Tehama,2004,203
+Tehama,2005,165
+Tehama,2006,173
+Tehama,2007,267
+Tehama,2008,225
+Tehama,2009,142
+Tehama,2010,126
+Tehama,2011,134
+Tehama,2012,155
+Tehama,2013,175
+Tehama,2014,142
+Tehama,2015,137
+Tehama,2016,113
+Tehama,2017,133
+Tehama,2018,184
+Tehama,2019,82
+Tehama,2020,186
+Trinity,1992,266
+Trinity,1993,104
+Trinity,1994,172
+Trinity,1995,96
+Trinity,1996,125
+Trinity,1997,126
+Trinity,1998,75
+Trinity,1999,130
+Trinity,2000,117
+Trinity,2001,139
+Trinity,2002,93
+Trinity,2003,160
+Trinity,2004,131
+Trinity,2005,81
+Trinity,2006,167
+Trinity,2007,103
+Trinity,2008,232
+Trinity,2009,166
+Trinity,2010,61
+Trinity,2011,54
+Trinity,2012,105
+Trinity,2013,136
+Trinity,2014,82
+Trinity,2015,182
+Trinity,2016,61
+Trinity,2017,130
+Trinity,2018,74
+Trinity,2019,103
+Trinity,2020,73
+Tulare,1992,509
+Tulare,1993,471
+Tulare,1994,437
+Tulare,1995,338
+Tulare,1996,530
+Tulare,1997,476
+Tulare,1998,417
+Tulare,1999,499
+Tulare,2000,387
+Tulare,2001,423
+Tulare,2002,370
+Tulare,2003,473
+Tulare,2004,472
+Tulare,2005,486
+Tulare,2006,612
+Tulare,2007,464
+Tulare,2008,249
+Tulare,2009,214
+Tulare,2010,154
+Tulare,2011,192
+Tulare,2012,141
+Tulare,2013,185
+Tulare,2014,107
+Tulare,2015,185
+Tulare,2016,189
+Tulare,2017,195
+Tulare,2018,164
+Tulare,2019,102
+Tulare,2020,141
+Tuolumne,1992,271
+Tuolumne,1993,151
+Tuolumne,1994,184
+Tuolumne,1995,127
+Tuolumne,1996,192
+Tuolumne,1997,147
+Tuolumne,1998,150
+Tuolumne,1999,215
+Tuolumne,2000,180
+Tuolumne,2001,191
+Tuolumne,2002,153
+Tuolumne,2003,222
+Tuolumne,2004,193
+Tuolumne,2005,161
+Tuolumne,2006,172
+Tuolumne,2007,275
+Tuolumne,2008,162
+Tuolumne,2009,100
+Tuolumne,2010,130
+Tuolumne,2011,152
+Tuolumne,2012,131
+Tuolumne,2013,123
+Tuolumne,2014,184
+Tuolumne,2015,130
+Tuolumne,2016,116
+Tuolumne,2017,150
+Tuolumne,2018,122
+Tuolumne,2019,102
+Tuolumne,2020,179
+Ventura,1992,16
+Ventura,1993,14
+Ventura,1994,50
+Ventura,1995,19
+Ventura,1996,35
+Ventura,1997,23
+Ventura,1998,22
+Ventura,1999,48
+Ventura,2000,23
+Ventura,2001,17
+Ventura,2002,13
+Ventura,2003,10
+Ventura,2004,16
+Ventura,2005,66
+Ventura,2006,56
+Ventura,2007,34
+Ventura,2008,29
+Ventura,2009,32
+Ventura,2010,26
+Ventura,2011,33
+Ventura,2012,57
+Ventura,2013,61
+Ventura,2014,36
+Ventura,2015,58
+Ventura,2016,62
+Ventura,2017,80
+Ventura,2018,27
+Ventura,2019,47
+Ventura,2020,110
+Yolo,1992,21
+Yolo,1993,29
+Yolo,1994,17
+Yolo,1995,22
+Yolo,1996,20
+Yolo,1997,10
+Yolo,1998,34
+Yolo,1999,29
+Yolo,2000,16
+Yolo,2001,23
+Yolo,2002,14
+Yolo,2003,27
+Yolo,2004,19
+Yolo,2005,37
+Yolo,2006,61
+Yolo,2007,54
+Yolo,2008,43
+Yolo,2009,58
+Yolo,2010,74
+Yolo,2011,80
+Yolo,2012,36
+Yolo,2013,33
+Yolo,2014,24
+Yolo,2015,21
+Yolo,2016,37
+Yolo,2017,55
+Yolo,2018,51
+Yolo,2019,40
+Yolo,2020,39
+Yuba,1992,68
+Yuba,1993,43
+Yuba,1994,56
+Yuba,1995,50
+Yuba,1996,48
+Yuba,1997,49
+Yuba,1998,49
+Yuba,1999,85
+Yuba,2000,80
+Yuba,2001,82
+Yuba,2002,103
+Yuba,2003,85
+Yuba,2004,69
+Yuba,2005,100
+Yuba,2006,136
+Yuba,2007,151
+Yuba,2008,155
+Yuba,2009,121
+Yuba,2010,83
+Yuba,2011,78
+Yuba,2012,106
+Yuba,2013,106
+Yuba,2014,75
+Yuba,2015,73
+Yuba,2016,69
+Yuba,2017,70
+Yuba,2018,77
+Yuba,2019,39
+Yuba,2020,30

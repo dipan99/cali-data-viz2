@@ -25,6 +25,7 @@
 		"vite": "^6.2.5"
 	},
 	"dependencies": {
+		"cesium": "^1.128.0",
 		"d3": "^7.9.0",
 		"d3-brush": "^3.0.0",
 		"d3-hexbin": "^0.2.2",
@@ -32,6 +33,7 @@
 		"d3-selection": "^3.0.0",
 		"d3-time-format": "^4.1.0",
 		"plotly.js-dist": "^3.0.1",
-		"three": "^0.175.0"
+		"three": "^0.175.0",
+		"vite-plugin-cesium": "^1.2.23"
 	}
 }

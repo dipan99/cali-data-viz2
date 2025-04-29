@@ -218,10 +218,10 @@
     // 91 - 1000 (Trivia)
     {
       year: "Extreme Burned Acreage ",
-      text: "Some years saw burned acreage spike over 210%, even hitting an incredible 1343% jump — showcasing the volatility of wildfire seasons. Why?",
+      text: "Some years saw burned acreage spike over 210%, even hitting an incredible 1343% jump — showcasing the volatility of wildfire seasons. Why? Click me to find out!",
       startProgress: 91,
       endProgress: 1000,
-      click: true
+      click: true,
     },
   ];
 
@@ -234,32 +234,36 @@
   const precipFacts = [
     {
       year: "2013–2015",
-      text: "These three years saw low to medium precipitation on an average in all of California.",
+      text: `These three years saw low to medium precipitation on an average in all of California.
+Rim Fire (2013) – Burned approximately 257,314 acres in the Stanislaus National Forest and Yosemite National Park, making it the largest fire of the year and one of the biggest in California history.`,
       startProgress: 15,
       endProgress: 70,
     },
     {
       year: "2016–2018",
-      text: "2016, 2017 & 2018 were years of low to medium precipitation in California.",
+      text: `2016, 2017 & 2018 were years of low to medium precipitation in California.
+Soberanes Fire (2016) – Burned approximately 132,127 acres in Monterey County, starting from an illegal campfire; it became the most expensive wildfire to fight in U.S. history at the time, costing over $260 million.`,
       startProgress: 46,
       endProgress: 75,
     },
     {
       year: "Pivotal Year: 2019",
-      text: "2019 was a year of high precipitation across California.",
-      startProgress: 60,
-      endProgress: 100,
+      text: `2019 was a year of high precipitation across California.
+Kincade Fire (2019) – Burned approximately 77,758 acres in Sonoma County; it was the largest wildfire in California in 2019.`,
+      startProgress: 75,
+      endProgress: 1000,
     },
     {
-      year: "Conclusion: Precipitation & Wildfires and Climate Patterns",
+      year: "Conclusion",
       text: `Precipitation & Wildfires:
 – Lower precipitation years tend to have increased wildfire activity due to drier vegetation.
 Climate Patterns:
 – Year-to-year precipitation variation shows California's vulnerability to drought cycles.
+This begets a question - Could seasons as a whole impact wildfires? Click me to find out!.
   `,
       startProgress: 80,
       endProgress: 1000,
-      click: true
+      click: true,
     },
   ];
 
@@ -293,10 +297,9 @@ Climate Patterns:
 
   function scrollToSeasonal() {
     activeSection = "SEASONAL";
-    progress = 10.01
+    progress = 10.01;
     seasSection?.scrollIntoView({ behavior: "smooth" });
   }
-  
 
   // Adjust visualization position based on screen size
   onMount(() => {
@@ -322,8 +325,17 @@ Climate Patterns:
 {#if progress >= 5}
   <header class="fixed-top" transition:slide={{ duration: 400 }}>
     <div class="container-fluid">
-      <div class="menu-bar">
-        <h1>GOLDEN STATE OF FIRE</h1>
+      <div class="menu-bar d-flex justify-content-between align-items-center">
+        <div class="earth-btn">
+          <a href="{base}/immersive">
+            <div class="earth-content">
+              <img src="./earth.gif" alt="earthpic" />
+              <p>Immersive (3D) mode</p>
+            </div>
+          </a>
+        </div>
+
+        <h1 class="text-center m-0">GOLDEN STATE OF FIRE</h1>
         <!-- <p>{progress}</p> -->
         <div class="team-icon" onclick={() => (showTeam = !showTeam)}>
           <svg
@@ -460,9 +472,9 @@ Climate Patterns:
   </div>
 {/if}
 {#if progress >= 10.01}
-  <section bind:this={envSection}></section>
-  <section bind:this={geoSection}></section>
-  <section bind:this={seasSection}></section>
+  <section bind:this={envSection} style="margin-top: 20rem;"></section>
+  <section bind:this={geoSection} style="margin-top: 20rem;"></section>
+  <section bind:this={seasSection} style="margin-top: 20rem;"></section>
 {/if}
 
 <main class="pt-5 mt-5">
@@ -478,7 +490,7 @@ Climate Patterns:
                 <div
                   class="fact-box"
                   onclick={fact.click ? scrollToEnvironmental : undefined}
-                  in:fly={{ y: 50, duration: 600 }}
+                  in:fly={{ y: 100, duration: 600 }}
                   out:fade={{ duration: 300 }}
                   style="opacity: {scale.opacity}; transition: all 2s ease-in-out;
                   cursor: {fact.click ? 'pointer' : 'default'};"
@@ -500,7 +512,7 @@ Climate Patterns:
                 <!-- svelte-ignore a11y_no_static_element_interactions -->
                 <div
                   class="fact-box"
-                  in:fly={{ y: 50, duration: 600 }}
+                  in:fly={{ y: 100, duration: 600 }}
                   out:fade={{ duration: 300 }}
                   style="opacity: {scale.opacity}; transition: all 2s ease-in-out;"
                 >
@@ -520,7 +532,7 @@ Climate Patterns:
                 <div
                   class="fact-box"
                   onclick={fact.click ? scrollToSeasonal : undefined}
-                  in:fly={{ y: 50, duration: 600 }}
+                  in:fly={{ y: 100, duration: 600 }}
                   out:fade={{ duration: 300 }}
                   style="opacity: {scale.opacity}; transition: all 2s ease-in-out;
                   cursor: {fact.click ? 'pointer' : 'default'};"
@@ -619,14 +631,14 @@ Climate Patterns:
 </main>
 
 <!-- Permanent Earth Button -->
-{#if progress >= 5}
+<!-- {#if progress >= 5}
   <div class="fixed-earth-button" transition:slide={{ duration: 400 }}>
     <a href="{base}/immersive">
       <img src="./earth.gif" alt="earthpic" />
       <p>Immersive (3D) mode</p>
     </a>
   </div>
-{/if}
+{/if} -->
 
 <style>
   :global(body),
@@ -658,10 +670,12 @@ Climate Patterns:
   }
 
   .menu-bar h1 {
-    font-size: clamp(2rem, 5vw, 3.5rem);
-    margin: 0 auto;
+    font-size: clamp(1.6rem, 4vw, 2.8rem);
     text-align: center;
-    flex: 1;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    margin: 0;
   }
 
   .team-icon {
@@ -866,5 +880,36 @@ Climate Patterns:
     font-weight: bold;
     margin-top: 0.5rem;
     font-size: 0.9rem;
+  }
+  .earth-btn {
+    margin-right: 10px;
+  }
+
+  .earth-btn a {
+    text-decoration: none;
+  }
+
+  .earth-content {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+
+  .earth-btn img {
+    height: 2.5rem;
+    width: 2.5rem;
+    transition: transform 0.3s ease;
+  }
+
+  .earth-btn img:hover {
+    transform: scale(1.5);
+  }
+
+  .earth-btn p {
+    color: #3e2c28;
+    font-weight: bold;
+    margin: 0;
+    font-size: 0.7rem;
+    white-space: nowrap;
   }
 </style>

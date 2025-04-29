@@ -17,9 +17,8 @@
   let precipData, tempData, windData;
   let currentMaxYear = 1984; // Initialize with the minimum year
   let maxDataYear = 2020; // Will be updated after loading data
-  let visibleYearLabel = 1984;
-  $: visibleYearLabel = currentMaxYear;
-
+  // let visibleYearLabel = 1984;
+  // $: visibleYearLabel = currentMaxYear;
 
   const chartMaxWidth = 450;
   const chartHeight = 190;
@@ -68,17 +67,26 @@
       (d) => d.year,
     );
 
+    const avgTempByYear = new Map();
+    tempData.forEach((d) => {
+      if (d.YEAR && d.AvgTemp != null) {
+        avgTempByYear.set(d.YEAR, d.AvgTemp);
+      }
+    });
+
     const metrics = [
       "PRECIPITATION",
-      "MAX_TEMP",
-      "MIN_TEMP",
+      // "MAX_TEMP",
+      // "MIN_TEMP",
+      "AVG_TEMP",
       "AVG_WIND_SPEED",
-      "TEMP_RANGE",
-      "WIND_TEMP_RATIO",
+      // "TEMP_RANGE",
+      // "WIND_TEMP_RATIO",
     ];
 
     enrichedData = weatherData.map((d) => ({
       ...d,
+      AVG_TEMP: avgTempByYear.get(d.YEAR) || 0,
       FIRE_COUNT: fireCounts.get(d.YEAR) || 0,
     }));
 
@@ -119,6 +127,14 @@
       constraintrange: null,
     }));
 
+    const styledDimensions = filteredDimensions.map((dim) => ({
+      ...dim,
+      tickangle: 45, // Angle the tick labels 45 degrees
+      tickfont: {
+        size: 9, // Make the labels smaller
+      },
+    }));
+
     Plotly.react(
       chartDiv,
       [
@@ -137,7 +153,7 @@
               titlefont: { size: 12 },
             },
           },
-          dimensions: filteredDimensions,
+          dimensions: styledDimensions,
         },
       ],
       {
@@ -322,10 +338,10 @@
 </script>
 
 <div class="chart-container">
-  <div class="year-label">
+  <!-- <div class="year-label">
     <strong>{visibleYearLabel}</strong>
-  </div>
-  
+  </div> -->
+
   <div bind:this={chartDiv} class="chart-div"></div>
 
   <div class="chart-selector">
@@ -370,17 +386,16 @@
   }
 
   .year-label {
-  position: absolute;
-  top: 25px;
-  right: 5px;
-  font-size: 24px;
-  font-weight: 900;
-  color: #3e2c28;
-  background: rgba(255, 255, 255, 0.85);
-  padding: 8px 16px;
-  border-radius: 10px;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-  z-index: 10;
-}
-
+    position: absolute;
+    top: 25px;
+    right: 5px;
+    font-size: 24px;
+    font-weight: 900;
+    color: #3e2c28;
+    background: rgba(255, 255, 255, 0.85);
+    padding: 8px 16px;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    z-index: 10;
+  }
 </style>
